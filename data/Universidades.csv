@@ -1,0 +1,93 @@
+idUniversidad,nombre,sede,comunidadAutonoma,fundacion,tipo
+0,Universidad de Sevilla,Sevilla,Andalucía,1505,Pública
+1,Universidad de Granada,Granada,Andalucía,1531,Pública
+2,Universidad de Córdoba,Córdoba,Andalucía,1972,Pública
+3,Universidad de Málaga,Málaga,Andalucía,1972,Pública
+4,Universidad de Cádiz,Cádiz,Andalucía,1979,Pública
+5,Universidad de Almería,Almería,Andalucía,1993,Pública
+6,Universidad de Huelva,Huelva,Andalucía,1993,Pública
+7,Universidad de Jaén,Jaén,Andalucía,1993,Pública
+8,Universidad Internacional de Andalucía,Sevilla,Andalucía,1994,Pública
+9,Universidad Pablo de Olavide,Sevilla,Andalucía,1997,Pública
+10,Universidad Loyola Andalucía,Sevilla,Andalucía,2011,Privada
+11,Universidad Tecnológica Atlántico-Mediterráneo,Málaga,Andalucía,2023,Privada
+12,Universidad Fernando III,Bormujos,Andalucía,2023,Privada
+13,Universidad de Zaragoza,Zaragoza,Aragón,1542,Pública
+14,Universidad San Jorge,Villanueva de Gállego,Aragón,2005,Privada
+15,Universidad de Oviedo,Oviedo,Asturias,1608,Pública
+16,Universidad de las Islas Baleares,Palma,Islas Baleares,1978,Pública
+17,Universidad de La Laguna,San Cristóbal de La Laguna,Canarias,1927,Pública
+18,Universidad de Las Palmas de Gran Canaria,Las Palmas de Gran Canaria,Canarias,1989,Pública
+19,Universidad Europea de Canarias,La Orotava,Canarias,2012,Privada
+20,Universidad Fernando Pessoa-Canarias,Santa María de Guía,Canarias,2014,Privada
+21,Universidad de Cantabria,Santander,Cantabria,1972,Pública
+22,Universidad Europea del Atlántico,Santander,Cantabria,2013,Privada
+23,Universidad de Castilla-La Mancha,Ciudad Real,Castilla-La Mancha,1985,Pública
+24,Universidad de Salamanca,Salamanca,Castilla y León,1218,Pública
+25,Universidad de Valladolid,Valladolid,Castilla y León,1241,Pública
+26,Universidad Pontificia de Salamanca,Salamanca,Castilla y León,1940,Privada
+27,Universidad de León,León,Castilla y León,1979,Pública
+28,Universidad de Burgos,Burgos,Castilla y León,1994,Pública
+29,Universidad Católica Santa Teresa de Jesús de Ávila,Ávila,Castilla y León,1996,Privada
+30,Universidad Europea Miguel de Cervantes,Valladolid,Castilla y León,2002,Privada
+31,Universidad IE,Segovia,Castilla y León,2008,Privada
+32,Universidad Internacional Isabel I de Castilla,Burgos,Castilla y León,2011,Privada
+33,Universidad de Barcelona,Barcelona,Cataluña,1450,Pública
+34,Universidad Autónoma de Barcelona,Sardañola del Vallés,Cataluña,1968,Pública
+35,Universidad Politécnica de Cataluña,Barcelona,Cataluña,1971,Pública
+36,Universidad Pompeu Fabra,Barcelona,Cataluña,1990,Pública
+37,Universidad Ramon Llull,Barcelona,Cataluña,1990,Privada
+38,Universidad de Gerona,Gerona,Cataluña,1991,Pública
+39,Universidad de Lérida,Lérida,Cataluña,1991,Pública
+40,Universidad Rovira i Virgili,Tarragona,Cataluña,1991,Pública
+41,Universidad Abierta de Cataluña,Barcelona,Cataluña,1994,Privada
+42,Universidad Internacional de Cataluña,Barcelona,Cataluña,1997,Privada
+43,Universidad de Vich,Vich,Cataluña,1997,Privada
+44,Universidad Abad Oliva CEU,Barcelona,Cataluña,2003,Privada
+45,Universidad de Valencia,Valencia,Comunidad Valenciana,1499,Pública
+46,Universidad Politécnica de Valencia,Valencia,Comunidad Valenciana,1968,Pública
+47,Universidad de Alicante,San Vicente del Raspeig,Comunidad Valenciana,1979,Pública
+48,Universidad Jaime I,Castellón de la Plana,Comunidad Valenciana,1991,Pública
+49,Universidad Miguel Hernández de Elche,Elche,Comunidad Valenciana,1996,Pública
+50,Universidad CEU Cardenal Herrera,Moncada,Comunidad Valenciana,1999,Privada
+51,Universidad Católica de Valencia San Vicente Mártir,Valencia,Comunidad Valenciana,2003,Privada
+52,Universidad Internacional de Valencia,Valencia,Comunidad Valenciana,2008,Privada
+53,Universidad Europea de Valencia,Valencia,Comunidad Valenciana,2012,Privada
+54,Universidad de Extremadura,Badajoz,Extremadura,1973,Pública
+55,Universidad de Santiago de Compostela,Santiago de Compostela,Galicia,1495,Pública
+56,Universidad de La Coruña,La Coruña,Galicia,1989,Pública
+57,Universidad de Vigo,Vigo,Galicia,1990,Pública
+58,Universidad Intercontinental de la Empresa,Santiago de Compostela,Galicia,2021,Privada
+59,Universidad Internacional de la Empresa,Madrid,Comunidad de Madrid,2023,Privada
+60,Universidad de La Rioja,Logroño,La Rioja,1992,Pública
+61,Universidad Internacional de La Rioja,Logroño,La Rioja,2008,Privada
+62,Universidad Complutense de Madrid,Madrid,Comunidad de Madrid,1822,Pública
+63,Universidad Pontificia Comillas,Madrid,Comunidad de Madrid,1890,Privada
+64,Universidad Internacional Menéndez Pelayo,Madrid,Comunidad de Madrid,1932,Pública
+65,Universidad Autónoma de Madrid,Madrid,Comunidad de Madrid,1968,Pública
+66,Universidad Politécnica de Madrid,Madrid,Comunidad de Madrid,1971,Pública
+67,Universidad Nacional de Educación a Distancia,Madrid,Comunidad de Madrid,1972,Pública
+68,Universidad de Alcalá,Alcalá de Henares,Comunidad de Madrid,1499,Pública
+69,Universidad Carlos III de Madrid,Getafe,Comunidad de Madrid,1989,Pública
+70,Universidad Alfonso X el Sabio,Villanueva de la Cañada,Comunidad de Madrid,1993,Privada
+71,Universidad CEU San Pablo,Madrid,Comunidad de Madrid,1993,Privada
+72,Universidad Francisco de Vitoria,Pozuelo de Alarcón/Majadahonda,Comunidad de Madrid,1993,Privada
+73,Universidad Antonio de Nebrija,Hoyo de Manzanares,Comunidad de Madrid,1995,Privada
+74,Universidad Europea de Madrid,Villaviciosa de Odón,Comunidad de Madrid,1995,Privada
+75,Universidad Rey Juan Carlos,Móstoles,Comunidad de Madrid,1996,Pública
+76,Universidad Camilo José Cela,Villanueva de la Cañada,Comunidad de Madrid,1998,Privada
+77,Universidad a Distancia de Madrid,Madrid,Comunidad de Madrid,2006,Privada
+78,Universidad Eclesiástica San Dámaso,Madrid,Comunidad de Madrid,2011,Privada
+79,ESIC Universidad,Pozuelo de Alarcón,Comunidad de Madrid,2019,Privada
+80,Universidad Internacional Villanueva,Madrid,Comunidad de Madrid,2019,Privada
+81,CUNEF Universidad,Madrid,Comunidad de Madrid,2019,Privada
+82,"Universidad de Diseño, Innovación y Tecnología",Madrid,Comunidad de Madrid,2022,Privada
+83,Universidad de Murcia,Murcia,Región de Murcia,1914,Pública
+84,Universidad Católica San Antonio,Guadalupe - Murcia,Región de Murcia,1996,Privada
+85,Universidad Politécnica de Cartagena,Cartagena,Región de Murcia,1998,Pública
+86,Universidad de Navarra,Pamplona,Navarra,1952,Privada
+87,Universidad Pública de Navarra,Pamplona,Navarra,1987,Pública
+88,Universidad de Deusto,Bilbao,País Vasco,1886,Privada
+89,Universidad del País Vasco,Lejona,País Vasco,1980,Pública
+90,Universidad de Mondragón,Mondragón,País Vasco,1997,Privada
+91,European University Vitoria-Gasteiz,Vitoria,País Vasco,2023,Privada

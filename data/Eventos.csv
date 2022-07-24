@@ -1,0 +1,601 @@
+idEvento,nombre,descripcion,fechaEvento,fechaCreacion,idCreador
+0,Cumpleaños de Anselmo Batlle Muñoz,,05-05-2023,,6267
+1,Poniencia de Macario Leal-Solís,,13-08-2021,,11468
+2,Cumpleaños de Juan Luis Carreño Pellicer,,28-04-2022,,36
+3,Despedida de Candelas Flores-Pinilla,,21-10-2022,,1363
+4,Jubilación de Quirino Llano-Navarro,,09-11-2021,,10460
+5,Despedida de Alondra Nicolasa Alfonso Aller,,24-02-2022,,624
+6,Poniencia de Teodosio Dani Bueno Rincón,,16-11-2021,,4077
+7,Fiesta en casa de Demetrio Palau Priego,,03-08-2022,,2190
+8,Jubilación de Alejandra Correa,,23-08-2022,,1286
+9,Cumpleaños de Aitana Tena-Castilla,,30-12-2021,,2299
+10,Poniencia de Fidel Torrecilla-Ferrández,,14-12-2022,,10149
+11,Fiesta sorpresa de Fortunata de Gascón,,29-07-2021,,1933
+12,Fiesta sorpresa de Susanita Calleja Mayoral,,28-05-2023,,2958
+13,Despedida de Selena Elvira Ortiz Barrera,,18-11-2021,,3036
+14,Despedida de Aitana Gras Barroso,,02-03-2022,,11446
+15,Despedida de Jose Miguel López Amo,,24-02-2022,,7918
+16,Fiesta en casa de Toribio Arcos Amor,,02-05-2022,,9108
+17,Poniencia de Abraham Marín Roldán,,01-01-2023,,7476
+18,Fiesta en casa de Chuy Mayoral Lozano,,28-03-2023,,2725
+19,Fiesta sorpresa de Sarita de Salcedo,,20-10-2021,,10627
+20,Fiesta sorpresa de Juliana Goicoechea Diéguez,,02-04-2023,,10568
+21,Fiesta sorpresa de Guillermo Soriano Zurita,,22-01-2022,,3044
+22,Fiesta en casa de Dan Gelabert Solana,,04-12-2022,,4730
+23,Fiesta sorpresa de Leocadio Carreño,,26-07-2021,,1113
+24,Despedida de Fernando Torre Sarabia,,18-07-2022,,11510
+25,Fiesta en casa de Julio César Ortega Peñas,,21-02-2022,,8505
+26,Fiesta sorpresa de Jafet Guillén Pou,,24-06-2022,,10010
+27,Fiesta en casa de Etelvina Lerma Domingo,,17-10-2022,,10805
+28,Fiesta sorpresa de Melania Remedios Osorio Taboada,,10-09-2022,,6958
+29,Poniencia de Baltasar Bello Sierra,,20-02-2022,,11730
+30,Despedida de Catalina Rebollo Sebastián,,26-07-2021,,8779
+31,Despedida de Eugenio Correa Aguilar,,30-06-2023,,6380
+32,Jubilación de Teodoro Cabezas Rivas,,01-01-2023,,3900
+33,Despedida de Valero Puga Durán,,02-11-2021,,4585
+34,Fiesta en casa de Alberto Adrián Salvà Gomez,,23-06-2023,,4127
+35,Fiesta en casa de Mariano Falcón Torrents,,12-10-2022,,2256
+36,Jubilación de Juan Luis Trillo-Campillo,,14-09-2022,,10232
+37,Fiesta sorpresa de Gertrudis Coca Ramón,,04-07-2022,,3571
+38,Fiesta sorpresa de Julián Peñalver-Ferreras,,04-02-2023,,8808
+39,Fiesta en casa de Tomasa Blanes Moles,,28-03-2023,,6905
+40,Cumpleaños de Ruy Guerra Duarte,,11-06-2023,,5946
+41,Poniencia de Gertrudis Cerro,,07-02-2023,,1713
+42,Fiesta sorpresa de Natalio Mercader Rocamora,,13-04-2023,,1448
+43,Poniencia de Jacobo Casanova Galindo,,26-11-2022,,5431
+44,Fiesta sorpresa de Loida Obdulia Peláez Sanchez,,21-07-2022,,9135
+45,Jubilación de Alfredo Corominas-Serra,,01-10-2021,,9788
+46,Jubilación de Carolina Uriarte-Donoso,,21-12-2021,,10749
+47,Poniencia de Narcisa Ana Belén Alba Montes,,20-01-2023,,3850
+48,Poniencia de Virginia Pablo Lucas,,24-12-2021,,614
+49,Jubilación de Luna de Ordóñez,,07-04-2023,,3574
+50,Fiesta sorpresa de Ariadna Olivia Isern Duran,,01-01-2022,,2627
+51,Poniencia de Tamara Sastre Amador,,04-04-2022,,4972
+52,Cumpleaños de Balduino Bustos Coca,,29-09-2021,,7532
+53,Fiesta sorpresa de Maricruz Peral Bello,,03-05-2023,,10678
+54,Poniencia de Alcides Palmer Llamas,,18-11-2021,,5468
+55,Poniencia de Amaro Felix Carvajal Pallarès,,26-11-2021,,11139
+56,Cumpleaños de Isa Rueda Montesinos,,30-05-2023,,711
+57,Despedida de Poncio Alcides Vidal Arco,,10-01-2023,,7529
+58,Cumpleaños de Pili Juana Salas Pizarro,,31-05-2022,,8956
+59,Fiesta sorpresa de Tadeo Roman Díaz,,07-08-2022,,10180
+60,Poniencia de Rosa Chus Fuster Cárdenas,,07-06-2023,,5489
+61,Despedida de Rosario Pavón Huertas,,14-06-2023,,5473
+62,Despedida de Javiera Solera Prado,,07-08-2022,,11139
+63,Poniencia de Desiderio Bru Amador,,02-10-2022,,5851
+64,Despedida de Asunción Antúnez Jordán,,03-06-2023,,6218
+65,Despedida de Hortensia Verdugo,,12-09-2021,,631
+66,Fiesta en casa de Felisa Roman Casas,,13-05-2022,,6885
+67,Despedida de José Mari Buenaventura Amat Araujo,,30-08-2021,,8387
+68,Fiesta en casa de Che Zamora Aragonés,,18-09-2022,,10972
+69,Fiesta sorpresa de Alfonso Leon Montero,,30-06-2022,,11037
+70,Jubilación de Águeda Torrents Hervia,,15-03-2023,,246
+71,Fiesta en casa de Chema Cal Bernad,,17-02-2023,,8947
+72,Jubilación de Javiera Merino Cabello,,29-04-2022,,10658
+73,Cumpleaños de Rosalinda Cerezo Tomás,,06-11-2022,,7772
+74,Poniencia de Eladio Marco,,12-02-2023,,23
+75,Cumpleaños de Borja del Guitart,,22-07-2023,,9525
+76,Poniencia de Gilberto Abril-Alvarez,,15-08-2021,,343
+77,Despedida de Flor Querol-Baños,,03-03-2023,,9870
+78,Jubilación de Ricardo Villalonga,,20-02-2023,,11350
+79,Jubilación de Josué Agudo Salinas,,19-09-2022,,1346
+80,Despedida de Calixta Perera-Roldan,,02-01-2023,,11860
+81,Fiesta en casa de Begoña Arnaiz Galan,,20-06-2022,,110
+82,Fiesta sorpresa de Lorenza Yáñez Solsona,,28-07-2021,,11595
+83,Cumpleaños de Tiburcio Expósito Niño,,02-04-2022,,2886
+84,Fiesta en casa de Jerónimo Coll Luz,,09-06-2023,,4241
+85,Poniencia de Plácido Llabrés Nogués,,13-03-2023,,2065
+86,Fiesta en casa de Óscar Escobar Prado,,25-06-2023,,4898
+87,Cumpleaños de Maristela Soledad Ferrera Garrido,,15-01-2023,,2019
+88,Cumpleaños de Anacleto José Carbó Amor,,11-11-2022,,6197
+89,Fiesta sorpresa de Chus Castrillo Palau,,13-03-2022,,995
+90,Despedida de Heriberto Ramón-Ávila,,13-05-2022,,1549
+91,Jubilación de Rosario Farré Cornejo,,18-03-2022,,4345
+92,Cumpleaños de Morena Montoya,,27-04-2022,,11098
+93,Poniencia de Dominga Montenegro Roselló,,11-04-2023,,1885
+94,Fiesta sorpresa de Nereida Mayol,,17-11-2021,,96
+95,Despedida de Mariana Gallo Alcalá,,25-06-2022,,2248
+96,Jubilación de Melania Arco-Echeverría,,06-01-2023,,9756
+97,Fiesta sorpresa de Eusebio del Feijoo,,10-12-2021,,5348
+98,Fiesta sorpresa de Luis Miguel Berrocal Valera,,04-02-2022,,205
+99,Jubilación de Lidia de Garriga,,14-11-2022,,1658
+100,Despedida de Jose Ignacio Enrique Escribano Rivero,,10-08-2022,,10199
+101,Fiesta sorpresa de Rebeca Bustamante Santamaria,,18-06-2022,,6166
+102,Despedida de Graciana del Hoyos,,03-11-2021,,8051
+103,Fiesta en casa de Jesús Torrents Miguel,,23-04-2023,,6125
+104,Fiesta en casa de Paulino Goicoechea Pou,,10-12-2022,,9455
+105,Fiesta en casa de Carlito Gimenez-Segura,,20-11-2022,,1011
+106,Jubilación de Elodia de Riba,,07-01-2022,,8274
+107,Cumpleaños de Alejandro Pardo Rovira,,22-06-2022,,10808
+108,Despedida de Paca Valeria Galan Uriarte,,24-01-2023,,11270
+109,Cumpleaños de Imelda Montenegro-Guzmán,,02-10-2022,,1002
+110,Cumpleaños de Camila Cáceres-Mendizábal,,09-12-2021,,9182
+111,Fiesta sorpresa de Prudencio Ibáñez Olivares,,28-09-2022,,2046
+112,Poniencia de Mirta Exposito Benavent,,25-05-2023,,9383
+113,Poniencia de Guiomar Meléndez,,18-06-2022,,11787
+114,Fiesta sorpresa de Eduardo Reinaldo Ariño Rosado,,23-07-2021,,10066
+115,Poniencia de Josué Cifuentes Cañellas,,30-01-2022,,6149
+116,Poniencia de Dionisio Esteve Mariño,,18-12-2022,,4204
+117,Jubilación de Vidal Ferrán-Cañizares,,16-08-2021,,9772
+118,Jubilación de Dora Pinedo,,11-02-2022,,2055
+119,Poniencia de Eutimio Calleja Muro,,30-05-2022,,10338
+120,Jubilación de María Luisa Ledesma Pareja,,10-03-2023,,3647
+121,Despedida de Alfredo Samper Cal,,22-12-2021,,2366
+122,Fiesta sorpresa de Pascuala Barrena,,22-10-2021,,1287
+123,Fiesta en casa de Duilio Barral Seguí,,20-05-2022,,7591
+124,Poniencia de Enrique Saura-Arroyo,,27-08-2021,,1702
+125,Poniencia de Nydia Donaire Herrera,,24-12-2022,,4987
+126,Cumpleaños de Tomasa Aránzazu Bustamante Mayol,,14-03-2023,,7976
+127,Fiesta sorpresa de Ofelia Menendez-Cuesta,,20-05-2022,,3023
+128,Jubilación de Cristina Uribe Huertas,,03-09-2021,,6225
+129,Fiesta en casa de Plinio Español Pineda,,14-10-2022,,2854
+130,Poniencia de Mario Benavent Ruano,,10-06-2023,,2087
+131,Fiesta en casa de Pablo Casas Nicolau,,22-01-2022,,9200
+132,Jubilación de Lalo Rocha Moliner,,18-07-2023,,11729
+133,Fiesta sorpresa de Cebrián Figuerola Zamorano,,16-06-2022,,6970
+134,Jubilación de Amanda Bonet-Herrera,,17-11-2022,,2179
+135,Fiesta sorpresa de Aristides Tolosa Garriga,,21-07-2023,,377
+136,Jubilación de Juliana del Castelló,,23-02-2022,,11292
+137,Fiesta sorpresa de Eusebio de Torrent,,01-09-2022,,1060
+138,Cumpleaños de Simón Otero-Quevedo,,27-10-2021,,10608
+139,Poniencia de René Murcia,,03-04-2022,,1425
+140,Despedida de Amada Carrión,,24-01-2023,,2968
+141,Poniencia de Lino Andrés Marqués,,14-06-2023,,2610
+142,Despedida de Bernardino del Alsina,,13-05-2022,,8289
+143,Cumpleaños de Quique Romeu-Jaén,,29-01-2022,,3909
+144,Cumpleaños de Dionisio Blasco Real,,07-08-2021,,6457
+145,Fiesta en casa de Amor Cuadrado,,27-02-2022,,2781
+146,Fiesta sorpresa de Nadia Duque Casado,,14-03-2022,,2092
+147,Fiesta en casa de Adoración Calatayud Leiva,,14-08-2021,,5504
+148,Jubilación de Felicia Arco Almansa,,11-09-2021,,1408
+149,Cumpleaños de Rosaura Sáez Martínez,,13-08-2022,,9662
+150,Jubilación de Jacobo Fabra,,07-11-2021,,2813
+151,Jubilación de Loreto Conesa Gómez,,23-04-2023,,1207
+152,Jubilación de Inocencio Tena Portillo,,30-12-2021,,10923
+153,Despedida de Albano de Peña,,12-09-2022,,6913
+154,Cumpleaños de Toño Navarrete,,15-10-2021,,8189
+155,Despedida de Gabino Barreda Ortega,,11-02-2022,,9016
+156,Fiesta en casa de Azahar de Molins,,16-03-2022,,8367
+157,Despedida de Bernardita del Romeu,,05-11-2022,,7513
+158,Jubilación de Domitila Caballero Álamo,,24-09-2021,,9006
+159,Fiesta en casa de Lorena Blázquez Azcona,,15-05-2022,,11465
+160,Poniencia de Macarena Lupe Abad Ríos,,17-06-2022,,11956
+161,Poniencia de Alonso Fajardo Casares,,22-07-2023,,6914
+162,Despedida de Rita Ibañez-Pascual,,31-01-2022,,1466
+163,Poniencia de Salvador Jenaro Chacón Nogués,,22-02-2022,,4307
+164,Poniencia de Josep Bayo Infante,,01-04-2022,,10199
+165,Poniencia de Emperatriz Rosselló Carreras,,20-02-2022,,2
+166,Fiesta en casa de Begoña Lasa Urrutia,,13-07-2022,,886
+167,Fiesta en casa de Isidora Marcos Frutos,,10-07-2022,,9673
+168,Despedida de Rosario Gaya Fuente,,11-08-2022,,642
+169,Jubilación de José Trillo Tejero,,10-02-2023,,4433
+170,Jubilación de Lola Malena Neira Saavedra,,21-03-2022,,7715
+171,Poniencia de Trinidad Valls Pou,,02-08-2022,,8023
+172,Fiesta en casa de Maximiliano Guillen Sarmiento,,03-08-2021,,8752
+173,Cumpleaños de Aura Almansa-Alcolea,,04-03-2022,,11433
+174,Fiesta sorpresa de Florencia Evangelina Muñoz Iborra,,14-06-2023,,5793
+175,Fiesta en casa de Clímaco Benavides Cobos,,27-05-2022,,6258
+176,Cumpleaños de Lupe Ramis Zaragoza,,07-03-2023,,9192
+177,Cumpleaños de Godofredo Duarte Mesa,,30-08-2021,,4725
+178,Cumpleaños de Severino Hernando Sotelo,,04-09-2021,,2017
+179,Fiesta en casa de Cayetano Sevillano Corral,,24-11-2022,,4001
+180,Fiesta en casa de Sandra Oliver Lluch,,30-11-2021,,10721
+181,Fiesta sorpresa de Máxima del Tenorio,,10-11-2021,,7892
+182,Poniencia de Griselda Hidalgo Carrasco,,11-08-2022,,3138
+183,Cumpleaños de Reynaldo del Aranda,,20-02-2022,,9606
+184,Despedida de Pía Salamanca Yáñez,,14-01-2022,,6125
+185,Despedida de Elvira Arranz Pedraza,,17-08-2022,,3494
+186,Fiesta en casa de María Teresa Andrade Gomez,,23-04-2022,,33
+187,Fiesta en casa de Eliseo Nuñez Baeza,,02-03-2023,,8600
+188,Fiesta sorpresa de Fabiola Palmer Botella,,06-08-2021,,6100
+189,Despedida de Adora Berrocal Armas,,07-10-2022,,3173
+190,Poniencia de Juan Francisco del Figueras,,09-12-2021,,8048
+191,Fiesta en casa de Mohamed Madrigal Acedo,,20-11-2022,,5691
+192,Jubilación de Juana Reyes Lloret,,22-12-2022,,4303
+193,Fiesta sorpresa de Zoraida Judith Santiago Vives,,14-10-2022,,548
+194,Despedida de Charo Ruiz Angulo,,21-11-2021,,3527
+195,Poniencia de Fátima Silva Martin,,19-01-2023,,5981
+196,Jubilación de Fortunata del Noguera,,15-11-2022,,6678
+197,Jubilación de Noemí Peralta,,08-02-2022,,7035
+198,Despedida de Evaristo Quiroga Baena,,01-07-2022,,1267
+199,Cumpleaños de Eugenio Carmona Barbero,,30-01-2023,,7964
+200,Talk and pizzas en Universidad de Murcia,,31-03-2023,,4144
+201,Firma de libros en Universidad de Córdoba,,15-12-2022,,4760
+202,Primer día clases Universidad Politécnica de Valencia,,08-05-2023,,6814
+203,Primer día clases Universidad Rovira i Virgili,,27-11-2022,,9818
+204,Primer día clases Universidad de Lérida,,04-12-2021,,6631
+205,Primer día clases Universidad Abierta de Cataluña,,29-07-2021,,4438
+206,Talk and pizzas en Universidad Autónoma de Barcelona,,20-12-2021,,11046
+207,Primer día clases Universidad Nacional de Educación a Distancia,,29-12-2022,,7583
+208,Firma de libros en Universidad Rey Juan Carlos,,23-09-2022,,9938
+209,Talk and pizzas en Universidad de Alcalá,,28-06-2022,,2274
+210,Firma de libros en Universidad Complutense de Madrid,,10-01-2023,,6216
+211,Firma de libros en Universidad Politécnica de Cataluña,,25-02-2022,,11317
+212,Firma de libros en Universidad Internacional Villanueva,,06-12-2022,,2501
+213,Primer día clases Universidad Autónoma de Barcelona,,08-05-2022,,7407
+214,Botellón de Universidad Carlos III de Madrid,,10-11-2022,,3206
+215,Firma de libros en Universidad a Distancia de Madrid,,18-01-2022,,687
+216,Firma de libros en Universidad Miguel Hernández de Elche,,08-09-2021,,1132
+217,Firma de libros en Universidad Jaime I,,12-09-2022,,5182
+218,Talk and pizzas en Universidad a Distancia de Madrid,,10-07-2023,,3893
+219,Expo en Universidad CEU San Pablo,,10-04-2022,,1539
+220,Primer día clases Universidad Internacional de la Empresa,,16-04-2023,,10845
+221,Firma de libros en Universidad de La Laguna,,05-08-2021,,6231
+222,Firma de libros en Universidad Internacional Menéndez Pelayo,,03-06-2023,,2218
+223,Expo en Universidad de Santiago de Compostela,,04-01-2022,,10633
+224,Expo en Universidad Carlos III de Madrid,,23-06-2023,,4278
+225,Primer día clases Universidad Antonio de Nebrija,,25-02-2022,,6507
+226,Primer día clases Universidad de Barcelona,,16-07-2023,,7472
+227,Expo en Universidad de Málaga,,23-01-2023,,9803
+228,Botellón de Universidad Católica Santa Teresa de Jesús de Ávila,,23-03-2023,,520
+229,Firma de libros en Universidad Tecnológica Atlántico-Mediterráneo,,19-06-2022,,1954
+230,Firma de libros en Universidad de Vigo,,16-06-2023,,2463
+231,Firma de libros en Universidad de Cantabria,,24-04-2023,,10124
+232,Talk and pizzas en Universidad Pontificia de Salamanca,,12-09-2021,,8994
+233,Talk and pizzas en Universidad Pública de Navarra,,12-09-2021,,10592
+234,Expo en Universidad Intercontinental de la Empresa,,23-12-2022,,3125
+235,Talk and pizzas en Universidad de Zaragoza,,01-01-2023,,10205
+236,Expo en Universidad Europea de Canarias,,07-01-2023,,5546
+237,Talk and pizzas en Universidad de Zaragoza,,19-11-2022,,4228
+238,Talk and pizzas en Universidad Internacional de Valencia,,06-12-2022,,11309
+239,Firma de libros en Universidad de León,,25-05-2022,,5987
+240,Talk and pizzas en Universidad de Burgos,,18-10-2022,,1115
+241,Expo en Universidad Pablo de Olavide,,06-06-2023,,4052
+242,Botellón de Universidad Politécnica de Valencia,,16-04-2022,,1648
+243,Expo en Universidad Pontificia de Salamanca,,18-12-2021,,3127
+244,Primer día clases Universidad Internacional de Valencia,,28-12-2022,,2967
+245,Botellón de Universidad de Alicante,,25-12-2022,,11231
+246,Expo en Universidad Internacional Menéndez Pelayo,,26-10-2022,,8970
+247,Primer día clases Universidad de Lérida,,05-01-2023,,1197
+248,Firma de libros en Universidad CEU San Pablo,,20-08-2022,,2516
+249,Botellón de Universidad de Navarra,,19-03-2023,,1197
+250,Expo en Universidad Internacional Menéndez Pelayo,,24-04-2022,,8927
+251,Expo en Universidad Loyola Andalucía,,11-03-2023,,11857
+252,Primer día clases Universidad Internacional de la Empresa,,23-01-2022,,9625
+253,Expo en Universidad de La Coruña,,18-02-2023,,1724
+254,Talk and pizzas en Universidad Loyola Andalucía,,19-02-2022,,11477
+255,Botellón de Universidad de Barcelona,,28-06-2023,,4234
+256,Firma de libros en Universidad Pompeu Fabra,,29-12-2022,,9949
+257,Primer día clases Universidad CEU San Pablo,,01-08-2022,,4544
+258,Primer día clases Universidad Alfonso X el Sabio,,01-09-2021,,10496
+259,Firma de libros en Universidad Ramon Llull,,21-09-2022,,7631
+260,Firma de libros en Universidad de Valladolid,,23-10-2022,,4706
+261,Talk and pizzas en Universidad Nacional de Educación a Distancia,,28-04-2023,,9556
+262,Firma de libros en Universidad de Gerona,,16-07-2022,,10258
+263,Primer día clases Universidad Miguel Hernández de Elche,,09-12-2022,,1930
+264,Expo en Universidad Rey Juan Carlos,,12-12-2021,,4025
+265,"Botellón de Universidad de Diseño, Innovación y Tecnología",,07-08-2021,,411
+266,Firma de libros en Universidad Intercontinental de la Empresa,,03-09-2021,,3614
+267,Talk and pizzas en Universidad Pontificia de Salamanca,,25-05-2023,,973
+268,Botellón de Universidad Pablo de Olavide,,29-06-2022,,5406
+269,Primer día clases Universidad de Zaragoza,,29-06-2022,,10825
+270,Talk and pizzas en Universidad Internacional Villanueva,,20-12-2021,,1141
+271,Botellón de Universidad de Vich,,13-08-2021,,6789
+272,Primer día clases Universidad Politécnica de Valencia,,30-03-2023,,5904
+273,Firma de libros en Universidad de Oviedo,,27-09-2022,,903
+274,Botellón de Universidad de Mondragón,,19-12-2021,,2316
+275,Firma de libros en Universidad de Vich,,03-03-2022,,7610
+276,Talk and pizzas en Universidad Internacional de la Empresa,,11-01-2023,,4651
+277,Firma de libros en Universidad de Barcelona,,18-07-2023,,3046
+278,Talk and pizzas en Universidad Ramon Llull,,22-01-2023,,10498
+279,Expo en Universidad Rovira i Virgili,,05-08-2021,,9761
+280,Expo en Universidad Autónoma de Madrid,,01-06-2022,,9885
+281,Botellón de Universidad Internacional Villanueva,,08-03-2023,,5555
+282,Botellón de Universidad de Mondragón,,28-12-2022,,3648
+283,Talk and pizzas en Universidad del País Vasco,,20-09-2022,,1901
+284,Expo en Universidad de Valladolid,,13-02-2022,,11095
+285,Talk and pizzas en Universidad de Cádiz,,10-06-2023,,6883
+286,Firma de libros en Universidad Católica de Valencia San Vicente Mártir,,14-04-2022,,10190
+287,Talk and pizzas en Universidad Ramon Llull,,06-09-2021,,6972
+288,Talk and pizzas en Universidad Católica de Valencia San Vicente Mártir,,01-07-2023,,2380
+289,Primer día clases Universidad de León,,09-11-2021,,2049
+290,Botellón de Universidad de Zaragoza,,10-07-2022,,3746
+291,Botellón de Universidad Europea de Madrid,,26-09-2021,,3286
+292,Talk and pizzas en Universidad de Murcia,,29-10-2021,,11907
+293,Botellón de Universidad de Alcalá,,22-09-2022,,8107
+294,Botellón de Universidad Loyola Andalucía,,25-04-2023,,4847
+295,Primer día clases Universidad del País Vasco,,29-04-2022,,1654
+296,Talk and pizzas en Universidad Europea de Canarias,,11-12-2021,,5330
+297,Talk and pizzas en Universidad del País Vasco,,11-11-2022,,10090
+298,Primer día clases Universidad IE,,28-05-2023,,10914
+299,Expo en Universidad Camilo José Cela,,23-02-2023,,7468
+300,Firma de libros en Universidad de Lérida,,22-06-2022,,8473
+301,Botellón de Universidad Alfonso X el Sabio,,17-09-2021,,3764
+302,Talk and pizzas en Universidad de Córdoba,,16-02-2022,,4964
+303,Talk and pizzas en Universidad Carlos III de Madrid,,05-02-2022,,7346
+304,Firma de libros en Universidad de Cantabria,,28-08-2021,,4564
+305,Talk and pizzas en Universidad Antonio de Nebrija,,04-04-2022,,3934
+306,Primer día clases Universidad Loyola Andalucía,,29-05-2023,,3689
+307,Primer día clases Universidad Complutense de Madrid,,23-09-2022,,2618
+308,Firma de libros en Universidad de Granada,,09-12-2021,,5535
+309,Firma de libros en European University Vitoria-Gasteiz,,06-09-2021,,11770
+310,Firma de libros en ESIC Universidad,,20-04-2022,,5358
+311,Botellón de Universidad de Valladolid,,13-07-2022,,1592
+312,Expo en Universidad de Valladolid,,19-09-2022,,1878
+313,Primer día clases Universidad Francisco de Vitoria,,28-07-2022,,8828
+314,Primer día clases CUNEF Universidad,,25-01-2023,,7204
+315,Talk and pizzas en Universidad de Almería,,21-11-2022,,9655
+316,Expo en Universidad Católica Santa Teresa de Jesús de Ávila,,18-12-2022,,4600
+317,Talk and pizzas en Universidad de Murcia,,19-05-2022,,5959
+318,Expo en Universidad Politécnica de Madrid,,31-10-2022,,4582
+319,Botellón de Universidad de Huelva,,22-11-2021,,5994
+320,Talk and pizzas en Universidad de La Laguna,,24-10-2022,,8261
+321,Talk and pizzas en Universidad de Barcelona,,03-02-2022,,11207
+322,Talk and pizzas en Universidad de las Islas Baleares,,09-12-2021,,6438
+323,Primer día clases Universidad de Almería,,07-09-2022,,8296
+324,Primer día clases Universidad IE,,13-12-2022,,11258
+325,Firma de libros en Universidad Pablo de Olavide,,22-08-2022,,5396
+326,Firma de libros en Universidad de Deusto,,04-03-2023,,8463
+327,Firma de libros en Universidad Pompeu Fabra,,26-01-2023,,1509
+328,Expo en Universidad del País Vasco,,21-12-2022,,305
+329,Expo en Universidad Politécnica de Madrid,,03-12-2021,,7645
+330,"Firma de libros en Universidad de Diseño, Innovación y Tecnología",,02-01-2023,,3870
+331,Primer día clases Universidad Europea de Madrid,,29-08-2021,,2755
+332,Firma de libros en Universidad CEU Cardenal Herrera,,22-12-2021,,10069
+333,Botellón de Universidad de Vich,,02-03-2022,,2880
+334,Primer día clases Universidad Francisco de Vitoria,,21-10-2021,,4088
+335,Expo en Universidad de Vich,,01-06-2023,,10879
+336,Talk and pizzas en Universidad de Castilla-La Mancha,,13-11-2021,,10840
+337,Firma de libros en Universidad de Las Palmas de Gran Canaria,,16-05-2022,,1893
+338,Firma de libros en Universidad Nacional de Educación a Distancia,,17-10-2022,,2905
+339,Talk and pizzas en Universidad Católica Santa Teresa de Jesús de Ávila,,08-04-2022,,3654
+340,Botellón de Universidad de Burgos,,03-09-2021,,3638
+341,Primer día clases Universidad de Granada,,29-03-2022,,6188
+342,Primer día clases Universidad Fernando Pessoa-Canarias,,25-09-2022,,7927
+343,Expo en Universidad Nacional de Educación a Distancia,,13-11-2021,,716
+344,Primer día clases Universidad Católica de Valencia San Vicente Mártir,,29-03-2022,,3391
+345,Firma de libros en Universidad de Barcelona,,01-02-2022,,6141
+346,Firma de libros en Universidad Carlos III de Madrid,,27-11-2022,,10287
+347,Firma de libros en Universidad de Málaga,,09-06-2022,,10563
+348,Firma de libros en CUNEF Universidad,,18-02-2023,,5975
+349,Botellón de Universidad Pompeu Fabra,,14-01-2022,,3591
+350,Exposición de la facultad Derecho,,19-08-2021,,7753
+351,Graduación de Filosofía,,20-05-2022,,6268
+352,Graduación de Matemática,,02-08-2022,,2538
+353,Exposición de la facultad Ciencias Exactas,,07-08-2022,,3980
+354,Exposición de la facultad Química,,12-11-2022,,10150
+355,Certamen de la facultad Química,,13-09-2022,,11358
+356,Exposición de la facultad Comunicación,,21-01-2022,,1561
+357,Certamen de la facultad Ingeniería,,09-12-2021,,8725
+358,Certamen de la facultad Arquitectura,,08-10-2021,,3248
+359,Certamen de la facultad Comunicación,,19-12-2022,,7889
+360,Certamen de la facultad Información,,22-08-2022,,11999
+361,Certamen de la facultad Comunicación,,18-07-2023,,209
+362,Graduación de Ciencias Económicas,,23-03-2023,,2135
+363,Certamen de la facultad Ciencias Exactas,,11-01-2023,,3994
+364,Certamen de la facultad Diseño,,12-08-2022,,6838
+365,Graduación de Psicología,,16-02-2022,,9171
+366,Exposición de la facultad Veterinaria,,30-11-2022,,3718
+367,Certamen de la facultad Ciencias de la Educación,,17-04-2023,,4126
+368,Graduación de Veterinaria,,07-11-2022,,10545
+369,Certamen de la facultad Ciencias Económicas,,01-07-2023,,724
+370,Certamen de la facultad Información,,19-10-2022,,9800
+371,Graduación de Derecho,,10-01-2023,,10259
+372,Graduación de Ciencias Físicas y Matemáticas,,29-05-2023,,8391
+373,Exposición de la facultad Ciencias de la Educación,,19-01-2023,,6731
+374,Certamen de la facultad Ciencias de la Salud,,11-05-2022,,5406
+375,Certamen de la facultad Agronomía,,21-08-2021,,7472
+376,Exposición de la facultad Ciencias de la Educación,,31-07-2022,,2453
+377,Certamen de la facultad Veterinaria,,07-10-2021,,1224
+378,Certamen de la facultad Veterinaria,,03-06-2022,,1927
+379,Graduación de Arquitectura,,06-09-2022,,11233
+380,Exposición de la facultad Medicina,,12-01-2022,,9506
+381,Graduación de Información,,25-11-2022,,2212
+382,Graduación de Química,,24-07-2021,,2794
+383,Exposición de la facultad Información,,20-11-2021,,6025
+384,Exposición de la facultad Agronomía,,04-08-2022,,10996
+385,Exposición de la facultad Educación Física,,27-06-2023,,11777
+386,Certamen de la facultad Ciencias Físicas y Matemáticas,,02-07-2022,,2335
+387,Graduación de Ingeniería,,26-03-2023,,4093
+388,Graduación de Comunicación,,08-04-2023,,6730
+389,Exposición de la facultad Ciencias Sociales,,02-01-2022,,10552
+390,Certamen de la facultad Ciencias de la Salud,,14-09-2022,,6647
+391,Certamen de la facultad Diseño,,16-03-2022,,10154
+392,Graduación de Psicología,,18-02-2022,,2714
+393,Exposición de la facultad Derecho,,27-10-2022,,11037
+394,Certamen de la facultad Ciencias de la Educación,,01-11-2021,,620
+395,Graduación de Ciencias Exactas,,19-02-2022,,6825
+396,Exposición de la facultad Comunicación,,19-02-2023,,8999
+397,Exposición de la facultad Ciencias Exactas,,15-03-2023,,8015
+398,Exposición de la facultad Filosofía,,01-09-2022,,11884
+399,Exposición de la facultad Química,,01-06-2022,,7651
+400,Certamen de la facultad Agronomía,,21-01-2022,,6775
+401,Certamen de la facultad Medicina,,21-03-2022,,9611
+402,Graduación de Ingeniería,,15-10-2022,,523
+403,Graduación de Arquitectura,,19-04-2022,,8100
+404,Graduación de Ciencias Sociales,,24-12-2021,,56
+405,Graduación de Ciencias Sociales,,31-10-2021,,2651
+406,Exposición de la facultad Ciencias Físicas y Matemáticas,,21-02-2022,,219
+407,Certamen de la facultad Comunicación,,31-01-2022,,2484
+408,Certamen de la facultad Ciencias de la Salud,,22-08-2021,,11572
+409,Certamen de la facultad Ciencias Económicas,,08-05-2022,,7018
+410,Exposición de la facultad Matemática,,19-08-2022,,10937
+411,Graduación de Ciencias Físicas y Matemáticas,,31-08-2022,,1617
+412,Certamen de la facultad Matemática,,14-06-2023,,10284
+413,Graduación de Ciencias Exactas,,10-07-2022,,5649
+414,Certamen de la facultad Arquitectura,,09-03-2022,,267
+415,Graduación de Ciencias Exactas,,31-10-2022,,11695
+416,Exposición de la facultad Ciencias Exactas,,27-06-2023,,4028
+417,Certamen de la facultad Agronomía,,26-07-2022,,11756
+418,Certamen de la facultad Humanidades,,07-02-2023,,5271
+419,Exposición de la facultad Ciencias de la Educación,,22-11-2022,,3373
+420,Graduación de Ingeniería,,22-02-2022,,2537
+421,Certamen de la facultad Filosofía,,09-03-2023,,316
+422,Graduación de Ingeniería,,16-09-2022,,8451
+423,Certamen de la facultad Humanidades,,10-01-2023,,4569
+424,Exposición de la facultad Ciencias de la Educación,,17-01-2022,,1374
+425,Certamen de la facultad Psicología,,02-11-2022,,3091
+426,Certamen de la facultad Arquitectura,,17-04-2023,,10306
+427,Certamen de la facultad Diseño,,18-05-2022,,6491
+428,Graduación de Ciencias Físicas y Matemáticas,,23-02-2022,,1953
+429,Exposición de la facultad Medicina,,24-02-2023,,5164
+430,Certamen de la facultad Ingeniería,,18-02-2022,,8916
+431,Certamen de la facultad Psicología,,02-03-2023,,10828
+432,Exposición de la facultad Humanidades,,03-09-2022,,261
+433,Exposición de la facultad Derecho,,09-01-2023,,371
+434,Certamen de la facultad Odontología,,01-12-2021,,6265
+435,Graduación de Veterinaria,,19-03-2022,,2069
+436,Graduación de Matemática,,22-08-2022,,4607
+437,Graduación de Diseño,,23-05-2022,,5066
+438,Graduación de Ciencias Sociales,,04-03-2023,,4731
+439,Graduación de Filosofía,,21-07-2022,,5881
+440,Exposición de la facultad Ciencias Físicas y Matemáticas,,17-08-2021,,563
+441,Certamen de la facultad Comunicación,,28-06-2022,,3748
+442,Certamen de la facultad Información,,13-10-2022,,9552
+443,Graduación de Psicología,,08-06-2022,,1423
+444,Exposición de la facultad Química,,16-08-2021,,8252
+445,Certamen de la facultad Matemática,,19-01-2023,,5971
+446,Certamen de la facultad Ingeniería,,19-11-2021,,4879
+447,Graduación de Comunicación,,25-04-2023,,1147
+448,Certamen de la facultad Humanidades,,31-10-2021,,4813
+449,Certamen de la facultad Ciencias de la Educación,,14-11-2021,,2878
+450,TedTalk Comunicación Universidad de Gerona,,02-01-2023,,3675
+451,TedTalk Medicina Universidad Politécnica de Valencia,,26-07-2022,,1583
+452,Reunión director Ciencias de la Salud Universidad de Alicante,,10-08-2021,,8988
+453,Sentada Odontología Universidad Internacional Villanueva,,19-09-2021,,9706
+454,TedTalk Ciencias de la Salud Universidad Abierta de Cataluña,,27-10-2022,,7657
+455,Bienvenida nuevos alumnos Medicina Universidad Internacional Menéndez Pelayo,,29-08-2022,,10274
+456,"Bienvenida nuevos alumnos Arquitectura Universidad de Diseño, Innovación y Tecnología",,13-01-2023,,8794
+457,Sentada Educación Física Universidad Internacional de Valencia,,20-04-2023,,5663
+458,Reunión director Derecho Universidad Internacional de Cataluña,,12-02-2022,,1639
+459,Quedada de Matemática Universidad Eclesiástica San Dámaso,,25-01-2022,,2477
+460,Sentada Filosofía Universidad Pontificia Comillas,,31-10-2021,,11720
+461,Reunión director Ciencias Económicas Universidad de Santiago de Compostela,,19-09-2022,,4033
+462,TedTalk Filosofía Universidad de Salamanca,,22-08-2022,,5959
+463,TedTalk Diseño Universidad Pública de Navarra,,24-05-2022,,1709
+464,Bienvenida nuevos alumnos Ciencias de la Salud Universidad Internacional de Cataluña,,02-03-2023,,5692
+465,Bienvenida nuevos alumnos Ciencias Exactas Universidad de La Coruña,,05-08-2022,,9710
+466,TedTalk Filosofía Universidad de Navarra,,20-03-2022,,11666
+467,Reunión director Ciencias de la Educación Universidad de Gerona,,20-09-2022,,10843
+468,Quedada de Información Universidad Tecnológica Atlántico-Mediterráneo,,22-10-2021,,10189
+469,Sentada Filosofía Universidad del País Vasco,,15-12-2022,,11050
+470,Bienvenida nuevos alumnos Química European University Vitoria-Gasteiz,,28-08-2021,,11457
+471,Sentada Veterinaria CUNEF Universidad,,05-02-2023,,1530
+472,Reunión director Ciencias Económicas Universidad Internacional Menéndez Pelayo,,24-11-2022,,4736
+473,Reunión director Medicina Universidad de Valladolid,,30-01-2022,,8690
+474,TedTalk Humanidades Universidad de Almería,,29-05-2022,,10844
+475,Sentada Medicina Universidad Internacional de la Empresa,,03-01-2022,,7593
+476,Reunión director Ciencias de la Salud Universidad de Extremadura,,19-03-2022,,3192
+477,TedTalk Ciencias Físicas y Matemáticas Universidad Europea de Canarias,,15-04-2022,,2039
+478,Quedada de Odontología Universidad de Huelva,,07-03-2023,,8872
+479,Reunión director Ciencias de la Educación Universidad Alfonso X el Sabio,,02-06-2022,,5672
+480,Sentada Ciencias Exactas Universidad Pablo de Olavide,,05-05-2023,,5629
+481,Quedada de Psicología Universidad de Murcia,,01-09-2021,,8266
+482,Bienvenida nuevos alumnos Ciencias Sociales Universidad de Huelva,,07-12-2021,,6876
+483,Quedada de Química Universidad Internacional Menéndez Pelayo,,28-06-2022,,4653
+484,TedTalk Derecho Universidad Pompeu Fabra,,30-01-2022,,11744
+485,Sentada Filosofía Universidad Politécnica de Cartagena,,01-11-2021,,10283
+486,Quedada de Agronomía Universidad Europea de Valencia,,16-06-2023,,10506
+487,"TedTalk Comunicación Universidad de Diseño, Innovación y Tecnología",,20-12-2021,,4760
+488,Sentada Derecho Universidad Abad Oliva CEU,,22-09-2022,,10111
+489,Bienvenida nuevos alumnos Ciencias Sociales Universidad de Deusto,,14-05-2023,,7258
+490,Quedada de Comunicación Universidad de Mondragón,,17-02-2023,,1141
+491,Reunión director Ciencias Sociales Universidad de La Laguna,,22-12-2022,,4096
+492,Reunión director Química ESIC Universidad,,11-09-2022,,6280
+493,Reunión director Veterinaria Universidad Intercontinental de la Empresa,,23-12-2022,,234
+494,Reunión director Humanidades Universidad de Valladolid,,09-05-2022,,3979
+495,Bienvenida nuevos alumnos Veterinaria Universidad a Distancia de Madrid,,22-10-2021,,11674
+496,Sentada Ciencias Exactas Universidad Internacional de Valencia,,04-01-2023,,3687
+497,Reunión director Psicología Universidad Europea de Canarias,,03-04-2022,,2938
+498,Quedada de Diseño Universidad de Deusto,,21-05-2022,,342
+499,Bienvenida nuevos alumnos Ciencias Exactas Universidad Complutense de Madrid,,22-10-2021,,2527
+500,Reunión director Diseño Universidad San Jorge,,12-06-2023,,1664
+501,Sentada Veterinaria Universidad de Cantabria,,02-10-2022,,7036
+502,TedTalk Derecho Universidad Eclesiástica San Dámaso,,07-09-2022,,11004
+503,Quedada de Diseño Universidad Abad Oliva CEU,,02-12-2021,,730
+504,Quedada de Ciencias Físicas y Matemáticas Universidad de Vich,,19-04-2022,,10316
+505,Quedada de Comunicación Universidad Pública de Navarra,,22-08-2021,,6322
+506,TedTalk Agronomía Universidad San Jorge,,05-06-2022,,2649
+507,TedTalk Ciencias Sociales Universidad de Almería,,07-04-2022,,9556
+508,TedTalk Ciencias Exactas Universidad San Jorge,,19-02-2023,,5329
+509,Quedada de Información Universidad de Vich,,28-11-2021,,10270
+510,Reunión director Veterinaria Universidad de Cádiz,,27-04-2022,,637
+511,Sentada Medicina Universidad de Huelva,,18-10-2022,,9143
+512,Sentada Arquitectura Universidad Católica Santa Teresa de Jesús de Ávila,,09-09-2022,,1894
+513,Sentada Filosofía Universidad Loyola Andalucía,,28-11-2021,,10400
+514,Quedada de Ciencias Económicas Universidad de León,,16-01-2023,,2597
+515,Sentada Veterinaria Universidad de Salamanca,,18-09-2022,,3168
+516,Reunión director Información Universidad Eclesiástica San Dámaso,,28-06-2022,,7069
+517,Sentada Agronomía Universidad de Gerona,,04-10-2022,,8691
+518,Sentada Matemática Universidad de Alicante,,20-11-2021,,7980
+519,Sentada Ciencias Físicas y Matemáticas Universidad IE,,14-02-2022,,8237
+520,Bienvenida nuevos alumnos Información Universidad de La Rioja,,28-09-2021,,691
+521,Quedada de Química Universidad de Castilla-La Mancha,,17-11-2021,,2445
+522,TedTalk Ciencias Sociales Universidad de Castilla-La Mancha,,16-04-2023,,10330
+523,TedTalk Ciencias Físicas y Matemáticas Universidad de La Coruña,,30-10-2021,,8653
+524,Sentada Diseño Universidad de Valencia,,12-07-2022,,10579
+525,Reunión director Química Universidad Ramon Llull,,08-03-2023,,7497
+526,Reunión director Derecho Universidad de León,,09-12-2022,,4977
+527,Quedada de Comunicación Universidad Autónoma de Madrid,,26-02-2022,,15
+528,Reunión director Ciencias Económicas Universidad de Las Palmas de Gran Canaria,,02-06-2022,,4239
+529,Quedada de Derecho Universidad IE,,09-09-2022,,3627
+530,TedTalk Agronomía Universidad de Valladolid,,26-03-2023,,8361
+531,Sentada Comunicación Universidad Politécnica de Madrid,,22-01-2023,,10012
+532,TedTalk Ingeniería Universidad de Alicante,,12-01-2022,,4061
+533,Quedada de Ciencias Físicas y Matemáticas Universidad IE,,18-09-2021,,2113
+534,Bienvenida nuevos alumnos Humanidades Universidad Europea de Valencia,,25-01-2022,,6128
+535,Bienvenida nuevos alumnos Ciencias de la Educación Universidad Rovira i Virgili,,08-12-2021,,4236
+536,TedTalk Humanidades CUNEF Universidad,,05-09-2022,,8841
+537,Reunión director Educación Física Universidad Pompeu Fabra,,31-12-2022,,4940
+538,Quedada de Ciencias de la Educación Universidad Internacional Isabel I de Castilla,,20-03-2023,,6171
+539,Reunión director Psicología Universidad Autónoma de Barcelona,,20-01-2023,,7082
+540,TedTalk Ciencias Físicas y Matemáticas Universidad Intercontinental de la Empresa,,04-10-2022,,566
+541,Reunión director Humanidades Universidad Jaime I,,11-12-2022,,325
+542,Reunión director Humanidades Universidad Politécnica de Valencia,,13-03-2022,,1038
+543,TedTalk Educación Física Universidad Católica Santa Teresa de Jesús de Ávila,,24-07-2021,,9354
+544,Sentada Comunicación Universidad de Huelva,,20-12-2021,,4796
+545,Bienvenida nuevos alumnos Información Universidad Pontificia de Salamanca,,26-08-2022,,962
+546,TedTalk Comunicación Universidad de Extremadura,,04-07-2023,,8075
+547,TedTalk Arquitectura Universidad IE,,22-09-2021,,863
+548,Reunión director Veterinaria Universidad Europea Miguel de Cervantes,,10-04-2022,,6108
+549,Sentada Derecho Universidad Francisco de Vitoria,,03-05-2022,,3837
+550,Quedada de Ciencias de la Salud Universidad Pompeu Fabra,,03-04-2023,,1683
+551,TedTalk Comunicación Universidad de Málaga,,14-04-2023,,1140
+552,Quedada de Derecho Universidad Internacional Isabel I de Castilla,,24-10-2022,,5656
+553,Reunión director Medicina Universidad Internacional de Cataluña,,09-07-2023,,5997
+554,TedTalk Veterinaria Universidad Autónoma de Madrid,,29-03-2022,,4500
+555,Quedada de Comunicación Universidad Fernando III,,02-04-2023,,8595
+556,Bienvenida nuevos alumnos Medicina Universidad Católica de Valencia San Vicente Mártir,,24-07-2022,,2622
+557,Sentada Odontología Universidad Católica San Antonio,,30-11-2021,,915
+558,Sentada Ciencias Económicas Universidad Internacional Villanueva,,31-12-2022,,5969
+559,Bienvenida nuevos alumnos Diseño Universidad de Alicante,,23-06-2022,,4144
+560,Quedada de Ciencias Exactas Universidad de Valladolid,,03-04-2023,,11795
+561,TedTalk Diseño Universidad de Jaén,,27-03-2022,,6323
+562,Sentada Química Universidad Internacional Isabel I de Castilla,,01-06-2023,,3643
+563,TedTalk Veterinaria European University Vitoria-Gasteiz,,20-02-2022,,11264
+564,Bienvenida nuevos alumnos Arquitectura Universidad Fernando Pessoa-Canarias,,18-05-2023,,8853
+565,Bienvenida nuevos alumnos Agronomía Universidad de Huelva,,23-02-2023,,10099
+566,Quedada de Ciencias Físicas y Matemáticas Universidad Pontificia Comillas,,15-08-2021,,4965
+567,TedTalk Comunicación Universidad Católica Santa Teresa de Jesús de Ávila,,11-04-2022,,8647
+568,TedTalk Psicología CUNEF Universidad,,12-05-2022,,1022
+569,Bienvenida nuevos alumnos Derecho Universidad de Valencia,,23-11-2022,,11239
+570,Quedada de Ciencias Económicas Universidad de las Islas Baleares,,02-08-2021,,11013
+571,TedTalk Agronomía Universidad de Navarra,,07-11-2021,,1811
+572,Reunión director Diseño Universidad de La Coruña,,09-10-2021,,10921
+573,Sentada Ingeniería Universidad de Cádiz,,12-04-2022,,9564
+574,Sentada Ciencias Físicas y Matemáticas Universidad Europea de Madrid,,09-04-2022,,8375
+575,Quedada de Odontología Universidad San Jorge,,30-06-2022,,9611
+576,Quedada de Química Universidad Politécnica de Cataluña,,28-08-2022,,6703
+577,TedTalk Química Universidad de Jaén,,30-04-2023,,769
+578,Sentada Filosofía Universidad Católica San Antonio,,20-07-2022,,3963
+579,Quedada de Derecho Universidad de Valladolid,,09-03-2022,,11574
+580,Bienvenida nuevos alumnos Diseño Universidad a Distancia de Madrid,,05-01-2022,,7173
+581,Bienvenida nuevos alumnos Ciencias Sociales Universidad Internacional Isabel I de Castilla,,19-06-2022,,10021
+582,Bienvenida nuevos alumnos Humanidades Universidad Tecnológica Atlántico-Mediterráneo,,01-10-2021,,7714
+583,Reunión director Odontología Universidad Internacional Isabel I de Castilla,,17-05-2022,,9394
+584,Reunión director Ciencias Sociales Universidad Jaime I,,09-04-2023,,2705
+585,TedTalk Humanidades Universidad de Gerona,,06-09-2021,,4105
+586,Quedada de Ciencias Económicas Universidad de Deusto,,16-03-2022,,8972
+587,Reunión director Ciencias de la Salud Universidad Pompeu Fabra,,23-10-2021,,6452
+588,Reunión director Derecho European University Vitoria-Gasteiz,,23-01-2022,,4814
+589,Bienvenida nuevos alumnos Agronomía Universidad Complutense de Madrid,,08-11-2021,,9821
+590,TedTalk Filosofía Universidad Internacional de Andalucía,,11-06-2023,,9149
+591,TedTalk Arquitectura Universidad Abierta de Cataluña,,12-03-2023,,10593
+592,Reunión director Educación Física Universidad Politécnica de Cartagena,,20-04-2022,,3946
+593,Reunión director Ciencias Físicas y Matemáticas Universidad Europea del Atlántico,,03-05-2022,,9728
+594,Reunión director Ciencias Económicas Universidad de las Islas Baleares,,07-04-2022,,7352
+595,TedTalk Ciencias de la Salud Universidad Autónoma de Barcelona,,20-08-2021,,6752
+596,TedTalk Educación Física Universidad de Granada,,09-10-2021,,4384
+597,Bienvenida nuevos alumnos Ciencias Físicas y Matemáticas Universidad Pontificia de Salamanca,,03-02-2023,,8179
+598,Reunión director Arquitectura Universidad Internacional de Andalucía,,24-01-2022,,7191
+599,TedTalk Matemática CUNEF Universidad,,03-04-2023,,6803
