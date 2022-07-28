@@ -1,0 +1,689 @@
+nombre,edad,nombre,Universidad
+"Nacho Ayllón",17,"Universidad de Castilla-La Mancha","Ciencias Exactas"
+"Adoración Machado Mariscal",17,"Universidad Antonio de Nebrija",Odontología
+"Emilia Hoyos Cortes",16,"Universidad Europea del Atlántico",Matemática
+"Timoteo Hernandez-Duque",17,"Universidad Católica Santa Teresa de Jesús de Ávila",Derecho
+"Candelas del Requena",16,"Universidad de Burgos",Matemática
+"Nilda Belmonte Seguí",16,"Universidad de Vigo","Ciencias de la Salud"
+"Rita Jordán Solís",16,"Universidad Internacional Villanueva",Medicina
+"Dani Amando Ortuño Páez",17,"Universidad Rey Juan Carlos","Ciencias de la Educación"
+"Hilda Aller-Montalbán",16,"Universidad de Navarra","Ciencias de la Educación"
+"Wilfredo Balaguer Novoa",16,"Universidad Internacional de Andalucía",Arquitectura
+"Lourdes Llamas Badía",16,"Universidad Camilo José Cela",Odontología
+"Luciano Bejarano Contreras",16,"Universidad de La Coruña",Agronomía
+"Ulises Adadia Guardiola",17,"Universidad de Sevilla",Arquitectura
+"Bibiana Carmela Busquets Alcaraz",17,"Universidad de Cantabria","Ciencias Exactas"
+"Baldomero Matas Galán",16,"Universidad de Barcelona",Agronomía
+"Kike del Cazorla",16,"Universidad de Salamanca",Humanidades
+"Godofredo Amo Fernández",16,"Universidad de Gerona",Agronomía
+"Danilo de Perez",17,"Universidad Pontificia Comillas",Comunicación
+"Estela Pascual Domínguez",16,"Universidad de Barcelona",Arquitectura
+"Maxi del Murcia",17,"Universidad de La Coruña",Arquitectura
+"Maristela Piñol Osorio",16,"Universidad a Distancia de Madrid",Filosofía
+"Ernesto Humberto Montesinos Piquer",16,"Universidad Nacional de Educación a Distancia",Información
+"Glauco León",16,"Universidad San Jorge",Psicología
+"Marina Berta Pereira Castrillo",16,"CUNEF Universidad",Agronomía
+"Mónica Solana Madrid",16,"Universidad Abad Oliva CEU",Agronomía
+"Candelas Natividad Arranz Olmedo",17,"Universidad Antonio de Nebrija","Ciencias Exactas"
+"Rosalía Padilla-Echevarría",17,"ESIC Universidad","Ciencias Sociales"
+"Angelita Hoz Terrón",16,"ESIC Universidad","Ciencias Económicas"
+"Mariana Cabanillas",16,"Universidad de Málaga",Veterinaria
+"Pepita Cánovas",17,"Universidad Politécnica de Madrid","Ciencias de la Educación"
+"Nacio del Vallés",16,"Universidad Miguel Hernández de Elche",Matemática
+"Pepe Álamo Villalba",16,"Universidad Rey Juan Carlos",Diseño
+"Tomasa Colomer Gárate",17,"Universidad de Málaga","Ciencias de la Educación"
+"Francisca Gisbert-Blázquez",16,"Universidad Internacional Menéndez Pelayo",Ingeniería
+"Jovita Valcárcel Guardia",17,"Universidad Europea de Madrid","Ciencias Sociales"
+"Odalys Escrivá Fernández",17,"CUNEF Universidad",Diseño
+"Mariana Cabañas Llopis",16,"Universidad de León",Matemática
+"Ángela Chaparro Ballesteros",17,"Universidad Europea de Valencia",Agronomía
+"Samanta Figuerola Toledo",17,"Universidad de Salamanca","Ciencias Físicas y Matemáticas"
+"Che Pou",17,"Universidad de Almería",Medicina
+"Concepción Casares Caballero",17,"Universidad Pompeu Fabra",Veterinaria
+"Pilar Tur Núñez",17,"Universidad CEU Cardenal Herrera","Ciencias Físicas y Matemáticas"
+"Pepe León Palma",16,"Universidad a Distancia de Madrid","Ciencias Sociales"
+"Lucía Madrid Lucena",17,"Universidad Pompeu Fabra","Ciencias de la Salud"
+"Rosario Poza Moreno",16,"Universidad Internacional Villanueva",Odontología
+"Conrado Donoso",16,"Universidad de Vich",Veterinaria
+"Aurelia Emperatriz Sola Escamilla",16,"Universidad Miguel Hernández de Elche",Matemática
+"Fidel Ramirez Segovia",17,"Universidad de Diseño, Innovación y Tecnología",Información
+"Eli Monreal-Catalá",16,"Universidad de Vigo",Química
+"Vanesa Guzman",17,"Universidad de Jaén","Ciencias Exactas"
+"Felipa Ribes Solano",16,"Universidad de Burgos",Derecho
+"Angelina Alcázar",16,"Universidad de La Coruña","Ciencias de la Salud"
+"Aura Manzanares",17,"Universidad Complutense de Madrid",Matemática
+"Judith de Perez",17,"Universidad Ramon Llull",Información
+"Irene Hoyos Alcolea",17,"Universidad Politécnica de Cataluña",Arquitectura
+"Rosenda López Núñez",17,"Universidad Fernando Pessoa-Canarias","Educación Física"
+"Valerio Miralles Chacón",16,"Universidad Francisco de Vitoria",Química
+"Encarnacion Luque Galan",16,"Universidad a Distancia de Madrid","Educación Física"
+"María Pilar Gomez Soriano",16,"Universidad de Vich",Información
+"Carla Escrivá Luz",16,"Universidad Eclesiástica San Dámaso","Ciencias de la Salud"
+"Jose Miguel Nogués-Daza",16,"Universidad de Extremadura",Arquitectura
+"Lalo Cabo Lastra",17,"Universidad de Alicante",Matemática
+"Ovidio Escribano Palomar",17,"Universidad Internacional de La Rioja",Matemática
+"Ruperto de Bellido",17,"Universidad de Lérida",Química
+"Susanita Roig Alegria",16,"Universidad Carlos III de Madrid","Educación Física"
+"Fermín Palomares Barba",16,"Universidad Internacional Villanueva",Diseño
+"Araceli Nebot Cuenca",17,"Universidad de La Laguna",Química
+"Gertrudis de Calderón",16,"Universidad San Jorge","Ciencias de la Salud"
+"Cristian del Franch",16,"Universidad Católica Santa Teresa de Jesús de Ávila",Psicología
+"César de Lozano",17,"Universidad de Vigo",Psicología
+"Gustavo Hervia-Berenguer",16,"Universidad de Navarra","Ciencias de la Educación"
+"Angelita Agudo Barbero",16,"Universidad de Zaragoza",Psicología
+"Isabela Ojeda-Sanabria",17,"Universidad de La Coruña",Química
+"Luis Miguel Requena",17,"Universidad de Salamanca","Ciencias Económicas"
+"Victoriano Fermín Anguita Cabanillas",17,"Universidad de Vigo",Agronomía
+"Tamara Delia Bello Pera",16,"Universidad de Almería","Ciencias Sociales"
+"Geraldo Santana Salas",17,"Universidad Eclesiástica San Dámaso","Ciencias Sociales"
+"Marc Falcó Vega",16,"Universidad Pablo de Olavide","Ciencias Económicas"
+"Susana Merino Calderon",16,"Universidad Internacional Villanueva",Psicología
+"Sergio Salcedo Salamanca",17,"Universidad de León",Psicología
+"Leandra Macaria Pelayo Oliveras",17,"Universidad Europea Miguel de Cervantes",Química
+"Dominga Bayo Mosquera",17,"Universidad de Huelva",Comunicación
+"Carlito de Bolaños",16,"Universidad Pública de Navarra",Psicología
+"Mariana Ropero Expósito",17,"Universidad Antonio de Nebrija",Ingeniería
+"Lina Valls Ripoll",16,"Universidad Politécnica de Valencia",Comunicación
+"Silvestre Ayala Bello",16,"Universidad Internacional de Valencia",Odontología
+"Emilia del Muñoz",16,"Universidad CEU Cardenal Herrera",Arquitectura
+"Eutropio Tomas-Tomas",16,"Universidad de Valladolid",Agronomía
+"Virginia de Mínguez",16,"Universidad de las Islas Baleares",Información
+"Apolonia del Cuadrado",16,"Universidad Pablo de Olavide",Veterinaria
+"Morena Alegre Pino",16,"Universidad Antonio de Nebrija","Ciencias Económicas"
+"Ramiro Almazán Cid",16,"Universidad de Alicante",Filosofía
+"Isidro Navarro Cabrero",17,"Universidad Ramon Llull",Ingeniería
+"Balduino Checa Berenguer",16,"Universidad de La Rioja",Veterinaria
+"Lucho Peña-Hernandez",17,"Universidad de Granada",Ingeniería
+"Marina Calvet Cortés",16,"Universidad Internacional de la Empresa",Medicina
+"Pepito Manzano Alemany",17,"Universidad Politécnica de Valencia","Ciencias de la Salud"
+"Nereida Roman Haro",16,"Universidad Internacional Menéndez Pelayo","Ciencias Sociales"
+"María Carmen Salcedo Aroca",17,"Universidad Loyola Andalucía",Humanidades
+"Camilo Jover Capdevila",17,"Universidad de Oviedo",Humanidades
+"Agapito Miranda-Beltran",16,"Universidad de Alicante",Derecho
+"Rita Pellicer Salom",17,"Universidad de Extremadura",Matemática
+"Santos de Benitez",17,"Universidad Europea Miguel de Cervantes",Filosofía
+"Alexandra Carpio Gómez",17,"Universidad de Mondragón",Diseño
+"Geraldo Vergara",16,"Universidad Fernando Pessoa-Canarias",Diseño
+"Celestino Santiago Ortega",16,"Universidad de Santiago de Compostela",Arquitectura
+"Apolinar Fuentes Garriga",16,"Universidad Intercontinental de la Empresa",Comunicación
+"Agustina Olivares",17,"Universidad de Salamanca",Derecho
+"Isaac Lucas Ayala",16,"Universidad San Jorge",Medicina
+"Jacinto Córdoba Santamaria",17,"Universidad de Lérida",Ingeniería
+"Ascensión Teodora Fiol Benavente",16,"Universidad IE","Ciencias de la Educación"
+"Edelmiro del Barreda",17,"Universidad Rovira i Virgili","Educación Física"
+"Victor Manuel Quesada Valencia",17,"Universidad Antonio de Nebrija",Humanidades
+"Eufemia del Arranz",16,"Universidad IE",Filosofía
+"Alma Lopez Linares",16,"Universidad Pompeu Fabra",Ingeniería
+"Blanca de Tomás",16,"Universidad Católica San Antonio","Ciencias Sociales"
+"Vito Darío Martí León",16,"Universidad de Sevilla",Derecho
+"Julia Navarrete Dalmau",17,"ESIC Universidad","Ciencias Exactas"
+"Julia Arenas Ortega",16,"Universidad de Huelva",Comunicación
+"Hermenegildo Pombo Luís",16,"Universidad de Jaén",Matemática
+"Aurelia Domingo Yáñez",17,"Universidad de Valladolid",Diseño
+"Benita Galvez Pastor",17,"Universidad Politécnica de Madrid",Odontología
+"Teresa Arcos Tena",17,"Universidad Pablo de Olavide","Ciencias de la Educación"
+"Benito Galvez Casals",17,"CUNEF Universidad",Comunicación
+"Jose Antonio Burgos Manso",17,"Universidad Pública de Navarra",Información
+"Almudena Capdevila Arce",16,"Universidad de Valladolid",Diseño
+"Julie Guerra-Alba",16,"Universidad Europea Miguel de Cervantes","Ciencias Sociales"
+"María Carmen Beatriz Sandoval Salamanca",17,"Universidad de La Coruña",Veterinaria
+"Emilio Ocaña Casals",17,"Universidad de Gerona",Matemática
+"Albino de Sanmiguel",16,"CUNEF Universidad",Psicología
+"Alejo Ledesma-Verdejo",17,"Universidad de León",Veterinaria
+"Maximiliano Franco Tamarit",16,"Universidad de Santiago de Compostela","Ciencias de la Educación"
+"Leonel Ferrando Rosselló",16,"Universidad Rey Juan Carlos","Ciencias de la Salud"
+"Maxi Naranjo Porta",17,"Universidad Francisco de Vitoria","Ciencias de la Salud"
+"Rosa Cuervo Yuste",17,"Universidad de Sevilla",Derecho
+"Maristela Morena Gibert Ponce",16,"Universidad de Valladolid","Educación Física"
+"Jose Luis Ferrer Falcón",16,"Universidad de Almería",Diseño
+"Wilfredo Salvador Cámara",17,"Universidad Loyola Andalucía","Ciencias de la Salud"
+"Ricardo Juan Antonio Zorrilla Garrido",17,"Universidad CEU Cardenal Herrera",Humanidades
+"Miguela Rey Guzmán",16,"Universidad Carlos III de Madrid",Comunicación
+"Leonor Ortuño",17,"Universidad de Santiago de Compostela",Psicología
+"Andrea Sanabria",17,"Universidad Pública de Navarra",Información
+"Xiomara Jimenez Méndez",17,"Universidad de Alicante",Derecho
+"Nélida Graciana Blanch Goñi",17,"Universidad de Gerona",Psicología
+"David Viana Ribas",16,"Universidad de Murcia",Arquitectura
+"Noé Elías Castellanos",16,"Universidad Loyola Andalucía",Derecho
+"Flora Camps Belda",16,"Universidad CEU Cardenal Herrera",Psicología
+"Rafael Araujo-Méndez",17,"Universidad Rey Juan Carlos","Educación Física"
+"Felicidad Cañizares Fonseca",17,"Universidad de Navarra",Veterinaria
+"Guadalupe Gimenez Castejón",16,"Universidad Ramon Llull",Agronomía
+"Gema Azahara Mendizábal Badía",17,"Universidad Pontificia Comillas",Comunicación
+"Eutimio Ferrández Bayón",17,"Universidad Tecnológica Atlántico-Mediterráneo",Derecho
+"Fabiola Santos Sotelo",16,"Universidad de Barcelona",Matemática
+"Gerardo Moles Gallo",16,"Universidad de Alcalá",Matemática
+"Carolina Vara Perales",16,"Universidad Rey Juan Carlos",Odontología
+"Aura Correa González",16,"Universidad Complutense de Madrid",Química
+"Simón Cañellas Hoz",17,"Universidad de Cantabria","Ciencias Exactas"
+"Lucas Llopis Pi",16,"Universidad de Valencia",Derecho
+"Cirino Jerez Rovira",16,"Universidad de Burgos",Agronomía
+"Maite Solana",16,"Universidad Católica San Antonio",Humanidades
+"Fidel Antúnez",17,"Universidad Católica Santa Teresa de Jesús de Ávila","Ciencias Económicas"
+"Evaristo Villalba-Ortuño",17,"Universidad Ramon Llull",Psicología
+"Florinda de Ropero",17,"Universidad Loyola Andalucía",Filosofía
+"Fito Gil Lloret",17,"Universidad Internacional Menéndez Pelayo",Derecho
+"Alexandra Cases Amaya",16,"Universidad de Sevilla",Derecho
+"Alejandro Reyes Morán Samper",16,"Universidad Pública de Navarra",Ingeniería
+"Aurelio Fiol Juan",16,"Universidad CEU San Pablo","Educación Física"
+"Cruz Ródenas Priego",17,"Universidad de Murcia",Diseño
+"Che Palomares-Ayllón",17,"Universidad de Burgos",Odontología
+"Eduardo Mateo Sarmiento",17,"Universidad de Almería",Filosofía
+"Moisés Cortés Cueto",16,"Universidad Loyola Andalucía","Ciencias Económicas"
+"Vanesa Adán Carpio",17,"Universidad de Castilla-La Mancha",Agronomía
+"Gertrudis Aurora Polo Alfonso",17,"Universidad Abierta de Cataluña","Ciencias Sociales"
+"Lope del Cal",16,"Universidad Politécnica de Cartagena",Arquitectura
+"Cándida Hervás Puente",17,"Universidad de Cantabria","Educación Física"
+"Esmeralda Saldaña Pacheco",17,"Universidad Europea del Atlántico","Ciencias Exactas"
+"Adelaida Fuente Castilla",17,"Universidad de Málaga",Veterinaria
+"Serafina Leal Granados",17,"Universidad Internacional Menéndez Pelayo","Ciencias de la Salud"
+"Bartolomé del Salazar",17,"Universidad de Cantabria",Agronomía
+"Toribio Lasa Pastor",17,"Universidad de Sevilla",Ingeniería
+"Eufemia Sedano-Enríquez",17,"Universidad de Castilla-La Mancha",Filosofía
+"Francisco Bou Cepeda",16,"Universidad Internacional de Valencia",Agronomía
+"Edgardo Amigó Landa",17,"Universidad de Gerona",Filosofía
+"Juan Luis Calzada Machado",16,"CUNEF Universidad","Ciencias de la Salud"
+"Valentina Novoa Arroyo",17,"Universidad Católica Santa Teresa de Jesús de Ávila","Ciencias Económicas"
+"Georgina Giner Bejarano",17,"Universidad de Gerona",Comunicación
+"Emigdio Noé Roldán Espejo",16,"Universidad San Jorge",Diseño
+"Ramón Durán Camino",16,"Universidad Abad Oliva CEU",Diseño
+"Fernanda Meléndez",16,"Universidad de Las Palmas de Gran Canaria",Filosofía
+"Rafa Cáceres Barral",16,"Universidad de Cádiz",Filosofía
+"Casemiro Valverde Ordóñez",17,"CUNEF Universidad",Información
+"María Carmen del Bárcena",16,"Universidad Internacional de Andalucía",Medicina
+"Morena Fabra Carpio",17,"Universidad Internacional Menéndez Pelayo",Psicología
+"Donato Cal Manso",17,"Universidad Abad Oliva CEU",Psicología
+"Ángela Carballo Feliu",16,"Universidad de Castilla-La Mancha",Filosofía
+"Bernabé del Saavedra",17,"Universidad Tecnológica Atlántico-Mediterráneo",Ingeniería
+"Esther Ámbar Villalonga Falcón",17,"Universidad Abierta de Cataluña",Matemática
+"Hector Tejedor Pinilla",16,"Universidad Antonio de Nebrija","Ciencias de la Educación"
+"Melchor Héctor Viña Galindo",16,"Universidad San Jorge",Derecho
+"Josué Salazar-Olivares",17,"Universidad de Málaga","Ciencias Económicas"
+"Ceferino Suarez Pérez",16,"Universidad Complutense de Madrid",Arquitectura
+"Pastora Salamanca-Ordóñez",16,"Universidad San Jorge","Ciencias Económicas"
+"Mar del Barriga",17,"Universidad de Navarra","Ciencias Sociales"
+"Félix Ciríaco Pou Morata",16,"Universidad Rovira i Virgili",Psicología
+"Rufino Álvarez Morata",16,"Universidad de Alicante","Ciencias de la Educación"
+"Gonzalo de Palacios",17,"Universidad de Mondragón",Ingeniería
+"Pía Arcelia Cano Hervia",17,"Universidad Internacional de Valencia","Ciencias de la Educación"
+"Juanito Galiano",16,"Universidad Internacional Menéndez Pelayo",Odontología
+"Seve Pepito Fajardo Alcalde",16,"Universidad Internacional de la Empresa",Arquitectura
+"Pepita Pacheco Pineda",16,"Universidad Carlos III de Madrid","Ciencias de la Salud"
+"Charo del Galiano",17,"Universidad Internacional de Cataluña","Ciencias Exactas"
+"Javi Cortes-Villar",16,"Universidad Jaime I","Ciencias de la Educación"
+"Conrado Cueto Pastor",17,"Universidad Pública de Navarra",Psicología
+"Gema Cano Dalmau",16,"Universidad Francisco de Vitoria","Ciencias Físicas y Matemáticas"
+"Noemí Serrano Miralles",16,"Universidad Nacional de Educación a Distancia","Ciencias de la Salud"
+"Alejandro Sanjuan Espejo",17,"Universidad de Salamanca",Arquitectura
+"Salomón del Ruiz",17,"Universidad Católica de Valencia San Vicente Mártir",Odontología
+"Leonel Cámara Viñas",16,"Universidad de Málaga",Diseño
+"Alba Sobrino",17,"Universidad Internacional de La Rioja","Ciencias Económicas"
+"Rita Sureda Gordillo",16,"Universidad Internacional de la Empresa",Veterinaria
+"Blanca Arranz Elorza",17,"Universidad Miguel Hernández de Elche",Diseño
+"Charo Peláez Aznar",16,"Universidad Pontificia Comillas",Química
+"Rosalina Arias",16,"Universidad Nacional de Educación a Distancia","Ciencias Físicas y Matemáticas"
+"Pía Reig",16,"Universidad de Alcalá",Humanidades
+"Ligia del Velázquez",17,"Universidad de Córdoba",Diseño
+"Aránzazu Luque-Roselló",17,"Universidad de Zaragoza",Derecho
+"Gema Ortiz-Manuel",16,"Universidad Pública de Navarra",Diseño
+"María Andrade",16,"Universidad Intercontinental de la Empresa",Comunicación
+"Bernardino Ballester Ibañez",16,"Universidad San Jorge",Medicina
+"Nereida Posada Vara",17,"Universidad Internacional Isabel I de Castilla",Filosofía
+"Soledad Aguirre Diez",17,"Universidad de Extremadura",Derecho
+"Mario Seco Cortina",16,"Universidad Eclesiástica San Dámaso",Filosofía
+"Elodia Silvia Quintero Reig",17,"Universidad de Valladolid",Comunicación
+"Bernardo Carbó Crespo",16,"Universidad de Castilla-La Mancha",Arquitectura
+"Adelardo Expósito Ferrández",17,"Universidad Miguel Hernández de Elche",Arquitectura
+"Anselma Reguera Armas",17,"Universidad Europea de Madrid","Educación Física"
+"Ester Caro Cabrera",16,"Universidad de Vigo","Ciencias Económicas"
+"Ezequiel del Bayona",16,"Universidad Carlos III de Madrid",Filosofía
+"Ismael Rojas",16,"Universidad de La Laguna","Ciencias Sociales"
+"Victorino Aguilera",17,"Universidad de Valencia",Odontología
+"Ángel Estrada-Mariño",17,"Universidad CEU San Pablo",Arquitectura
+"Olimpia Vicente-Bru",17,"Universidad Politécnica de Cartagena",Humanidades
+"Dorita Simó",16,"Universidad de Navarra","Ciencias Sociales"
+"Vinicio Pi Carro",17,"Universidad Pablo de Olavide","Ciencias de la Salud"
+"Jennifer Galiano Mate",16,"Universidad Abierta de Cataluña",Humanidades
+"Susanita Carolina Pozo Polo",17,"Universidad de Deusto",Derecho
+"Enrique Pi Ribes",16,"Universidad Politécnica de Madrid",Odontología
+"Darío de Martí",16,"Universidad Internacional de la Empresa","Ciencias Económicas"
+"Gloria del Amorós",16,"Universidad Autónoma de Madrid","Ciencias Exactas"
+"Maximino Salgado Ayuso",16,"Universidad Politécnica de Cartagena","Ciencias de la Educación"
+"Jimena Maite Pol Carballo",16,"Universidad de Alicante",Comunicación
+"Tito Diaz Peinado",16,"Universidad Pública de Navarra",Medicina
+"Belén Llopis Quesada",16,"Universidad Carlos III de Madrid","Ciencias de la Salud"
+"Agustina del Rivero",17,"Universidad Intercontinental de la Empresa",Información
+"Sandalio Valls Rosales",17,"Universidad de Jaén",Comunicación
+"Reyes Vilalta",17,"Universidad de Murcia","Ciencias Físicas y Matemáticas"
+"Agustín Boix Dávila",16,"Universidad de Granada",Filosofía
+"Darío Daza Clavero",17,"Universidad de Extremadura",Información
+"Alejandro Serna",17,"Universidad Pontificia de Salamanca",Veterinaria
+"Ascensión Cornejo Carrillo",17,"Universidad de Diseño, Innovación y Tecnología",Comunicación
+"José María Laguna Gras",17,"Universidad Internacional de Andalucía",Matemática
+"José Antonio Azorin-Pintor",16,"Universidad Eclesiástica San Dámaso","Ciencias Económicas"
+"Martin Jordá Figueroa",16,"Universidad Internacional de La Rioja",Matemática
+"Quique Tello",17,"Universidad de Burgos",Derecho
+"Baltasar Salvà Sans",16,"Universidad de Jaén",Humanidades
+"Leyre Milla Boada",16,"Universidad Antonio de Nebrija",Veterinaria
+"Dalila Colom-Rozas",16,"CUNEF Universidad",Matemática
+"José Manuel de Llopis",17,"Universidad Tecnológica Atlántico-Mediterráneo","Ciencias Físicas y Matemáticas"
+"Amaro Muñoz Acosta",16,"Universidad Internacional de La Rioja",Comunicación
+"Íngrid Garmendia Paz",16,"Universidad de Barcelona","Ciencias de la Educación"
+"Gertrudis Priego Heras",17,"Universidad de Salamanca",Filosofía
+"Severiano Parra Prats",16,"Universidad Internacional Villanueva","Ciencias Exactas"
+"Baltasar Roman Vargas",17,"Universidad de Vigo",Información
+"Anita Díaz Benavente",17,"Universidad Internacional de Valencia",Ingeniería
+"Leocadio Juan Serna Benitez",16,"Universidad Politécnica de Madrid",Arquitectura
+"Goyo Báez Fabra",16,"Universidad de Huelva","Ciencias Exactas"
+"Lidia Expósito Álvaro",17,"Universidad Europea de Canarias","Ciencias Exactas"
+"Pablo Plinio Ruano Agudo",16,"Universidad de La Rioja","Ciencias de la Educación"
+"Ángela Quesada Duque",17,"Universidad de Vigo",Veterinaria
+"Anna Juan Valdés",17,"Universidad Politécnica de Cataluña",Medicina
+"Juliana Berrocal Marí",16,"Universidad Internacional de Cataluña",Información
+"Che León Menéndez",17,"Universidad Católica San Antonio",Química
+"Tecla Serra Izquierdo",17,"Universidad de las Islas Baleares",Veterinaria
+"Omar Orozco Caballero",16,"Universidad de Granada",Química
+"Eustaquio Olivera-Pulido",17,"Universidad de Vich",Ingeniería
+"Bautista del Luque",16,"Universidad Intercontinental de la Empresa",Medicina
+"Eli Gimenez Villalobos",16,"Universidad de La Laguna","Ciencias Físicas y Matemáticas"
+"Amando de Duque",16,"CUNEF Universidad",Psicología
+"Ulises Blazquez Villalobos",17,"Universidad Autónoma de Madrid",Ingeniería
+"Inmaculada Amores-Ocaña",17,"ESIC Universidad",Agronomía
+"Eusebio Andrés-Baños",16,"Universidad de Gerona","Ciencias Exactas"
+"Adolfo Aurelio Muñoz Checa",17,"Universidad Intercontinental de la Empresa",Información
+"Mercedes Céspedes Pinto",16,"Universidad Pontificia de Salamanca",Matemática
+"Dorotea Royo Fonseca",17,"Universidad de Navarra",Odontología
+"Galo Blazquez Marquez",16,"Universidad de Deusto",Veterinaria
+"Yago Castañeda Casares",16,"Universidad Ramon Llull","Educación Física"
+"Javier Aliaga Palacios",16,"Universidad Alfonso X el Sabio",Veterinaria
+"Jose Ramón Maza Hervás",16,"Universidad de Córdoba",Veterinaria
+"Manuela Garcia Miranda",17,"Universidad Autónoma de Madrid",Odontología
+"Flavio Ramón Escobar",17,"Universidad de Castilla-La Mancha","Ciencias Exactas"
+"Marta de Cazorla",16,"Universidad de La Laguna",Derecho
+"Gisela Baró Ribera",17,"Universidad Pontificia Comillas",Química
+"Eugenia Falcó",16,"Universidad de Mondragón",Agronomía
+"Custodio Corral-Peña",16,"Universidad Internacional Villanueva","Ciencias Económicas"
+"Alejandra Fernández Acevedo",17,"Universidad Carlos III de Madrid",Química
+"María Fernanda Arenas Arribas",16,"Universidad de Oviedo","Ciencias de la Educación"
+"Sandalio Carrasco Galiano",17,"Universidad de Alcalá",Química
+"Lidia Garriga",16,"Universidad de Las Palmas de Gran Canaria",Filosofía
+"Teobaldo Agudo Serra",17,"Universidad Politécnica de Cartagena","Ciencias de la Educación"
+"Ileana Verdejo",17,"Universidad de Gerona",Matemática
+"Félix Zabaleta Palau",16,"Universidad Antonio de Nebrija",Odontología
+"Prudencia Yaiza Gomila Santos",17,"Universidad de Huelva",Agronomía
+"Armando Fabregat Martí",17,"Universidad de Córdoba","Ciencias de la Educación"
+"Estela Grande Santos",16,"ESIC Universidad",Diseño
+"Asunción Arcos Cardona",16,"Universidad de Córdoba","Ciencias Físicas y Matemáticas"
+"Victor Somoza-Martinez",16,"Universidad de Córdoba",Filosofía
+"Nico Saez Saez",17,"Universidad San Jorge",Psicología
+"Roberto Lluch",16,"Universidad Internacional de Andalucía",Comunicación
+"Ildefonso Tovar Cepeda",17,"Universidad Nacional de Educación a Distancia",Diseño
+"Raquel Real Navas",17,"Universidad Complutense de Madrid","Ciencias Económicas"
+"Oriana Fonseca-Alegria",17,"Universidad Pablo de Olavide",Arquitectura
+"Valentín Bru Coello",17,"Universidad Fernando III","Ciencias Exactas"
+"Priscila Adelia Acero Patiño",16,"Universidad Internacional de La Rioja",Humanidades
+"Laura Ana Sofía Tejera Morales",17,"Universidad Loyola Andalucía","Ciencias de la Educación"
+"Gisela España Villa",16,"Universidad CEU San Pablo",Medicina
+"Gabriela Coronado Pina",16,"Universidad Internacional de Valencia","Ciencias de la Educación"
+"Amanda Contreras Rivera",17,"Universidad Intercontinental de la Empresa",Información
+"Encarnacion Hierro Castañeda",17,"Universidad de Mondragón",Odontología
+"Macaria Goicoechea Calleja",17,"Universidad Internacional de La Rioja",Filosofía
+"Rico Dionisio Gonzalo Carbajo",17,"Universidad de las Islas Baleares",Medicina
+"Zaida Jódar Santamaria",16,"Universidad Internacional de Valencia","Ciencias Sociales"
+"Valeria del Franch",17,"Universidad de Málaga","Ciencias Exactas"
+"Melania Prada Seco",17,"Universidad IE",Ingeniería
+"Leandro Blanch Varela",17,"Universidad Miguel Hernández de Elche",Agronomía
+"Amarilis Cárdenas-Ferrando",16,"Universidad Nacional de Educación a Distancia",Veterinaria
+"Vito Rolando Pomares Hervia",16,"CUNEF Universidad",Humanidades
+"Tere Porta-Pol",16,"Universidad de Diseño, Innovación y Tecnología","Ciencias Exactas"
+"Gastón Gallo Mármol",16,"Universidad de Diseño, Innovación y Tecnología",Medicina
+"Victoriano de Abella",16,"Universidad Francisco de Vitoria",Odontología
+"Sandra Iriarte Armengol",16,"Universidad Tecnológica Atlántico-Mediterráneo",Veterinaria
+"Alejo Armas Sanmiguel",16,"Universidad de Gerona",Psicología
+"José Rosa-Pizarro",17,"Universidad CEU San Pablo",Diseño
+"Zaira Gómez Oliver",17,"Universidad Politécnica de Cataluña",Medicina
+"Rufino Hervia Parra",17,"Universidad Europea de Madrid",Ingeniería
+"Melisa Coll Gomez",17,"Universidad de Gerona",Ingeniería
+"Segismundo Llobet Ureña",17,"Universidad Rey Juan Carlos",Comunicación
+"Domitila Belmonte Galván",17,"Universidad de Alcalá",Matemática
+"Eligio Soriano-Pera",16,"Universidad Internacional de Valencia","Ciencias de la Educación"
+"Elpidio Hervia Uriarte",16,"Universidad Católica Santa Teresa de Jesús de Ávila",Química
+"Valeria Conde Roman",17,"Universidad Internacional Isabel I de Castilla",Veterinaria
+"Gervasio del Viana",16,"Universidad de Valladolid",Filosofía
+"Georgina Arribas Verdú",17,"Universidad Tecnológica Atlántico-Mediterráneo",Química
+"María Belén Gertrudis Bartolomé Salvador",16,"Universidad de Deusto",Veterinaria
+"Sancho del Giménez",17,"Universidad Abierta de Cataluña",Matemática
+"Socorro Abril Acuña",17,"Universidad IE",Medicina
+"Martin Alcalá Morillo",17,"Universidad Internacional de la Empresa","Ciencias Económicas"
+"Fortunato Jover",17,"Universidad Católica San Antonio",Odontología
+"Tomás Chaparro Llamas",17,"Universidad Europea del Atlántico",Química
+"María Belén Carro",17,"Universidad Pública de Navarra",Arquitectura
+"Saturnino Aramburu",16,"Universidad Pablo de Olavide",Arquitectura
+"Remedios Soler Roig",17,"Universidad de Granada",Medicina
+"Micaela Arribas Ramírez",17,"Universidad Católica Santa Teresa de Jesús de Ávila","Ciencias de la Educación"
+"José María del Juan",16,"Universidad IE","Ciencias Económicas"
+"Curro Simó Fábregas",17,"Universidad Politécnica de Madrid",Química
+"Jacobo Ferrer Barbero",16,"Universidad Pablo de Olavide",Ingeniería
+"Hernando Oller Tejero",17,"Universidad Politécnica de Valencia",Arquitectura
+"Lupe Luna",16,"Universidad Camilo José Cela",Odontología
+"Candelas de Clavero",17,"Universidad Católica San Antonio",Veterinaria
+"Macario Huerta Bauzà",16,"Universidad Ramon Llull","Ciencias Económicas"
+"Paulino Alba",17,"Universidad de Castilla-La Mancha",Química
+"Goyo Viña Mena",16,"Universidad de Navarra","Ciencias Sociales"
+"Miguel Ángel Alonso Ribera",17,"Universidad de Diseño, Innovación y Tecnología",Veterinaria
+"Gabriel Villalonga Garcés",16,"Universidad de Barcelona",Matemática
+"Amanda del Vall",17,"Universidad de León",Agronomía
+"Odalys Nogueira Pinto",17,"Universidad Rovira i Virgili",Medicina
+"Rosalva Molins Pinedo",17,"Universidad de Salamanca",Ingeniería
+"Silvestre Asenjo Céspedes",17,"Universidad Intercontinental de la Empresa","Ciencias Económicas"
+"Onofre Capdevila-Rey",17,"Universidad Nacional de Educación a Distancia",Veterinaria
+"Rosalía Tomasa Acedo Cañizares",17,"Universidad Internacional Villanueva",Derecho
+"Calixta de Posada",16,"Universidad a Distancia de Madrid",Odontología
+"Rogelio Gomila-Mariño",16,"Universidad de Santiago de Compostela",Veterinaria
+"Pedro Zabala Fabra",16,"Universidad Europea de Madrid",Humanidades
+"Íngrid Lastra Gárate",16,"Universidad IE","Ciencias Sociales"
+"Rafa de Prada",16,"Universidad Pompeu Fabra","Ciencias de la Educación"
+"María Manuela Coronado-Abad",16,"Universidad Europea de Canarias",Derecho
+"Hermenegildo Mauricio Urrutia Ballesteros",17,"Universidad Abad Oliva CEU",Química
+"Juan Bautista Barberá Abril",17,"Universidad de Alicante","Ciencias Económicas"
+"Dolores Olmedo-Carbó",17,"Universidad Loyola Andalucía","Ciencias Físicas y Matemáticas"
+"Patricia Tomas Mur",17,"Universidad de Vigo",Psicología
+"Angelita Bernarda Elorza Duque",17,"Universidad de Huelva",Química
+"Graciano Roberto Crespo Taboada",17,"Universidad Tecnológica Atlántico-Mediterráneo","Ciencias Económicas"
+"Marino Iñiguez Sosa",17,"Universidad Pablo de Olavide","Ciencias Sociales"
+"Andrea Cabanillas",16,"Universidad Fernando III",Agronomía
+"Cintia de Cuervo",17,"Universidad CEU Cardenal Herrera",Ingeniería
+"Eric Morcillo",17,"Universidad Ramon Llull",Diseño
+"Marc Pérez Pedrero",16,"Universidad Católica Santa Teresa de Jesús de Ávila",Veterinaria
+"Daniel Gras Pomares",17,"Universidad Politécnica de Cataluña",Información
+"Calista Redondo",17,"Universidad Eclesiástica San Dámaso",Ingeniería
+"Martirio Huertas",16,"Universidad Católica de Valencia San Vicente Mártir",Psicología
+"Edelmiro Valenzuela",16,"Universidad de La Laguna",Agronomía
+"Trinidad Yéssica Sanabria Salinas",17,"Universidad CEU San Pablo","Ciencias Físicas y Matemáticas"
+"Amanda Cruz-Domingo",16,"Universidad de Alcalá",Psicología
+"Mariana Galindo Jerez",17,"Universidad Politécnica de Valencia",Filosofía
+"Apolinar Alarcón",17,"Universidad Complutense de Madrid","Ciencias de la Educación"
+"Odalis Duque Solé",16,"Universidad Católica de Valencia San Vicente Mártir","Educación Física"
+"Jordán de Quero",17,"Universidad de La Rioja","Ciencias Sociales"
+"Ignacia Gilabert Cózar",17,"Universidad de Cantabria","Ciencias de la Salud"
+"Lupita Quesada Dueñas",17,"Universidad de Extremadura",Ingeniería
+"Paola Noguera Agustí",17,"Universidad Internacional Isabel I de Castilla","Educación Física"
+"Cintia Iniesta Gelabert",17,"Universidad Carlos III de Madrid","Ciencias Económicas"
+"Jose Antonio Pedrosa Cobo",16,"Universidad Internacional de Cataluña",Comunicación
+"Leoncio Novoa Adán",17,"Universidad CEU Cardenal Herrera",Diseño
+"Luz Pinilla Molina",17,"Universidad Jaime I",Derecho
+"Fernando Urrutia Espinosa",17,"Universidad Complutense de Madrid","Ciencias Exactas"
+"María Cristina Cabrera Paz",16,"Universidad Internacional de La Rioja",Agronomía
+"Dorita del Seguí",17,"Universidad Rey Juan Carlos",Psicología
+"Berto Vera",16,"Universidad Internacional Isabel I de Castilla",Matemática
+"Carmen Calvet Tejada",17,"Universidad de Valladolid",Medicina
+"Inocencio Goyo Ramis Arenas",16,"Universidad Politécnica de Madrid",Química
+"Quique Cabello Lumbreras",16,"Universidad de Las Palmas de Gran Canaria",Agronomía
+"Ruth Gelabert",17,"Universidad Antonio de Nebrija","Ciencias Económicas"
+"Remigio Mata Montesinos",16,"Universidad de Las Palmas de Gran Canaria","Ciencias Económicas"
+"Isidoro Héctor Collado Cabrero",16,"Universidad Internacional de la Empresa",Ingeniería
+"Esperanza Gallardo Palomo",16,"Universidad Internacional de Andalucía",Diseño
+"Isabela Castilla Palma",17,"Universidad de Gerona",Química
+"Candelario Chaves Jiménez",17,"Universidad Fernando III","Educación Física"
+"Clotilde Cabezas Sacristán",17,"Universidad de Valladolid",Filosofía
+"Norberto Murcia Hoz",17,"Universidad de Las Palmas de Gran Canaria","Ciencias Económicas"
+"Lupe Teruel Sevillano",16,"Universidad del País Vasco",Humanidades
+"Adelia Luján",16,"Universidad Europea de Valencia",Humanidades
+"Ale Huertas Jover",17,"Universidad de Valencia",Información
+"Alfredo Montserrat",17,"Universidad a Distancia de Madrid","Ciencias Económicas"
+"Rafael Alsina Ureña",17,"Universidad Pontificia Comillas",Derecho
+"Maura Boix Prat",17,"Universidad de Alcalá","Ciencias Sociales"
+"Paulino Angulo Roig",16,"Universidad Miguel Hernández de Elche","Ciencias Físicas y Matemáticas"
+"Ernesto de Pedraza",17,"Universidad de Alcalá",Información
+"Albano Melero Figueroa",17,"Universidad CEU Cardenal Herrera","Ciencias Económicas"
+"Vicente Palomares Rocamora",16,"Universidad de Huelva",Arquitectura
+"Urbano Torrent Rocamora",17,"Universidad Católica de Valencia San Vicente Mártir",Química
+"María Manuela Bejarano Fortuny",16,"Universidad de Valencia",Veterinaria
+"Maxi Nadal Núñez",17,"Universidad Pontificia Comillas",Odontología
+"Salud Juliá Borja",17,"Universidad Europea Miguel de Cervantes","Ciencias Sociales"
+"Édgar Aparicio Piñol",17,"Universidad Politécnica de Valencia","Ciencias de la Educación"
+"Julia Cabanillas Paniagua",17,"Universidad Internacional Isabel I de Castilla",Información
+"Consuela de Gracia",17,"Universidad Ramon Llull","Educación Física"
+"Leire Mendizábal Borrell",16,"Universidad Francisco de Vitoria",Odontología
+"Marco Aramburu-Artigas",17,"Universidad Francisco de Vitoria",Comunicación
+"Marta Ayllón Bernal",16,"Universidad de Burgos",Información
+"Natalio Hervia Peinado",16,"Universidad de las Islas Baleares",Información
+"Rosario Roig Olivé",17,"Universidad de La Coruña",Filosofía
+"Aura Herrero Escobar",17,"Universidad de Vigo","Ciencias Sociales"
+"Luisa de Vergara",16,"Universidad de las Islas Baleares",Ingeniería
+"Lucio Teruel Roca",16,"Universidad de Granada","Ciencias Exactas"
+"Hernando Álvaro Blanes Figueras",17,"Universidad de Cádiz",Matemática
+"Julia Sainz Heras",17,"Universidad Europea de Canarias",Agronomía
+"Calixto Amador Jove",17,"Universidad de Lérida","Ciencias Sociales"
+"Josep Sánchez Ordóñez",17,"Universidad Francisco de Vitoria",Información
+"Gaspar Kike Galván Blanco",17,"Universidad de La Coruña","Ciencias de la Educación"
+"Fernando del Tamarit",16,"Universidad del País Vasco",Odontología
+"Pablo Mascaró Pujadas",16,"ESIC Universidad",Arquitectura
+"Renato Edmundo Galván Chamorro",16,"Universidad Miguel Hernández de Elche",Matemática
+"Jennifer Barriga Tomás",16,"Universidad de Sevilla",Comunicación
+"Jafet Solana",16,"Universidad a Distancia de Madrid","Educación Física"
+"Maximino Serra Bayón",16,"Universidad de Burgos",Arquitectura
+"Carlota Solsona",16,"Universidad Internacional de la Empresa","Ciencias Sociales"
+"Silvio Mayoral Salmerón",16,"Universidad Carlos III de Madrid","Ciencias Físicas y Matemáticas"
+"Pepito Soto Esparza",16,"Universidad Rey Juan Carlos",Química
+"Candela Reguera-Murcia",17,"Universidad de Almería",Diseño
+"Jose Ramón Salvador-Bermejo",17,"Universidad de Deusto",Psicología
+"Calisto Jaume Benavent",17,"CUNEF Universidad",Psicología
+"Felicidad Gargallo-Verdú",17,"Universidad Europea Miguel de Cervantes","Ciencias Físicas y Matemáticas"
+"Luis Ángel Cantero Lumbreras",17,"Universidad San Jorge","Ciencias de la Salud"
+"Modesto Domingo Antúnez",17,"Universidad Internacional Menéndez Pelayo",Veterinaria
+"Marcia Quevedo Bayona",16,"Universidad de Vich",Psicología
+"Margarita Bello Plaza",17,"Universidad Internacional de la Empresa","Ciencias Exactas"
+"Felix Pérez Sanchez",17,"Universidad Politécnica de Cataluña","Ciencias Económicas"
+"Moisés del Castelló",16,"Universidad Autónoma de Madrid",Filosofía
+"Loreto Bolaños Villalonga",16,"Universidad de Salamanca",Ingeniería
+"Rosalina Pavón Alcalde",17,"Universidad Miguel Hernández de Elche","Ciencias Físicas y Matemáticas"
+"Eutimio Berenguer Viñas",16,"Universidad de La Laguna","Ciencias Físicas y Matemáticas"
+"Paz Tomás Valderrama",16,"Universidad de Alicante",Humanidades
+"Atilio Grande Cánovas",17,"Universidad Católica de Valencia San Vicente Mártir",Filosofía
+"Heriberto Carballo Cantero",17,"Universidad Eclesiástica San Dámaso","Ciencias Físicas y Matemáticas"
+"Timoteo Quintero Pulido",16,"Universidad Europea del Atlántico",Química
+"Liliana Dominguez Benítez",16,"Universidad Católica San Antonio",Humanidades
+"Vasco Coll Torres",17,"Universidad Autónoma de Madrid",Información
+"Alex Lledó Anglada",16,"Universidad Intercontinental de la Empresa",Odontología
+"Luz Tejera Calleja",17,"Universidad Católica San Antonio",Veterinaria
+"Antonio José Ángel Rodriguez Rozas",17,"Universidad de Las Palmas de Gran Canaria",Arquitectura
+"Rebeca Miró Ballesteros",16,"Universidad de Vigo","Ciencias de la Educación"
+"María Ávila Dueñas",17,"Universidad de La Rioja","Ciencias Sociales"
+"Narcisa Frías",16,"Universidad de Granada",Agronomía
+"Jose Carlos Granados Hoz",16,"Universidad Internacional Villanueva",Agronomía
+"Jerónimo Lucena Berrocal",16,"Universidad de Vigo","Ciencias de la Salud"
+"Remedios Lerma Jordá",17,"Universidad Fernando III",Psicología
+"Eugenio Lluch Barbero",16,"Universidad de Alicante","Ciencias Sociales"
+"Tiburcio Carrión Diéguez",16,"Universidad Pompeu Fabra","Ciencias de la Salud"
+"Samuel Wilfredo Esparza Manjón",16,"Universidad de Zaragoza",Veterinaria
+"Evaristo Nevado-Mascaró",17,"Universidad Autónoma de Barcelona",Humanidades
+"Xavier Coca Clavero",17,"Universidad Politécnica de Cartagena","Ciencias Exactas"
+"Victor Canet-Luna",17,"Universidad de Deusto",Psicología
+"Patricia Egea-Berrocal",17,"Universidad de Málaga",Química
+"Griselda Rius Soler",16,"Universidad de Vich",Humanidades
+"Rita Crespo",17,"Universidad de Santiago de Compostela",Derecho
+"Jafet Iglesias Cerro",17,"Universidad de Burgos",Agronomía
+"Eligio del Caballero",16,"Universidad de Córdoba",Odontología
+"Encarnacion Gual Moles",17,"Universidad de Vigo","Educación Física"
+"Teodora Eva María Calleja Catalá",16,"Universidad de Vigo",Filosofía
+"Juanita Niño Sanz",16,"Universidad Politécnica de Cataluña",Medicina
+"Cornelio Taboada Blanca",17,"Universidad de La Laguna",Humanidades
+"Marino Gomis Gilabert",17,"Universidad Internacional de Valencia","Ciencias Sociales"
+"Yéssica Melero Angulo",17,"Universidad Rey Juan Carlos","Ciencias Físicas y Matemáticas"
+"Fabiana Vega",16,"Universidad de Oviedo",Diseño
+"Cándida Ana Belén Navarro Ferreras",16,"Universidad de Zaragoza","Ciencias de la Salud"
+"Iván Donaire Azorin",16,"Universidad Politécnica de Madrid",Diseño
+"Vera Casal Tello",16,"Universidad Fernando Pessoa-Canarias","Ciencias de la Educación"
+"Noemí Torre Royo",17,"Universidad Pompeu Fabra","Ciencias Sociales"
+"Zoraida Andrade Barragán",17,"Universidad Politécnica de Valencia",Diseño
+"Abigaíl Ricarda Morcillo Morante",17,"Universidad Católica San Antonio",Ingeniería
+"Salud Alcázar Marquez",16,"Universidad Francisco de Vitoria",Psicología
+"Fulgencio Garmendia",17,"Universidad de Vich",Filosofía
+"Octavio Tena",17,"Universidad Eclesiástica San Dámaso",Comunicación
+"Adelaida Piquer Tamayo",17,"Universidad Europea Miguel de Cervantes","Ciencias Exactas"
+"Verónica Montaña Anguita",16,"Universidad Internacional Menéndez Pelayo",Psicología
+"Jose Carlos Perales-Manzano",17,"Universidad Europea de Canarias","Ciencias Exactas"
+"Calisto del Mayol",17,"Universidad Politécnica de Cataluña","Educación Física"
+"Leopoldo Solé Duque",17,"Universidad Europea Miguel de Cervantes",Química
+"Florencia Alberto Sotelo",16,"Universidad de Cádiz",Veterinaria
+"Silvio Edgardo Losada Carrillo",16,"Universidad Camilo José Cela","Ciencias de la Educación"
+"Juan Antonio Manzanares Melero",17,"Universidad de La Coruña","Ciencias Económicas"
+"Felix Borrego Paz",16,"Universidad de Vich",Derecho
+"Ricarda Carretero",16,"Universidad Internacional Isabel I de Castilla",Medicina
+"Paulino Pintor Agustí",16,"Universidad de Cantabria",Medicina
+"Jovita Casanovas Gabaldón",16,"Universidad de Mondragón",Odontología
+"Danilo Bernal Iniesta",16,"Universidad de Vich",Diseño
+"Santos del Chico",17,"Universidad Antonio de Nebrija",Derecho
+"Loida Peral Hernando",16,"Universidad Eclesiástica San Dámaso",Matemática
+"Baudelio Galvez Román",17,"Universidad de Huelva","Ciencias de la Salud"
+"Ramón Pedrero Olivera",17,"Universidad Internacional de Valencia",Psicología
+"Guadalupe del Matas",17,"Universidad de Vich",Agronomía
+"Elvira Machado Garriga",17,"Universidad Autónoma de Madrid","Ciencias Económicas"
+"Alejo del Peláez",16,"Universidad de Valencia",Humanidades
+"Édgar René Bárcena Boix",16,"Universidad de La Coruña",Química
+"Dora Téllez Baró",16,"Universidad de Vigo",Humanidades
+"Rosa del Almazán",17,"Universidad Internacional Isabel I de Castilla","Educación Física"
+"Daniel Colom Garcés",17,"Universidad Europea de Valencia","Ciencias Físicas y Matemáticas"
+"Renata Jaén Palau",16,"Universidad de Deusto","Ciencias Exactas"
+"Melania del Mosquera",16,"Universidad Internacional de Andalucía",Veterinaria
+"Erasmo de Font",17,"Universidad Fernando III",Medicina
+"Ale Polo Barrera",16,"Universidad Europea de Madrid",Derecho
+"Adolfo Querol",17,"Universidad Autónoma de Barcelona",Química
+"Anna Sanmartín Moraleda",17,"Universidad de Granada",Psicología
+"Fabricio Carranza Falcó",16,"Universidad Europea de Madrid",Comunicación
+"Amando Nevado Iglesias",17,"Universidad Complutense de Madrid",Derecho
+"Ovidio Aguiló Alegria",17,"Universidad Europea de Madrid",Agronomía
+"Tomasa Serrano Andres",16,"Universidad de Sevilla","Educación Física"
+"Belen Larrea Rosell",17,"Universidad Politécnica de Cataluña","Ciencias Físicas y Matemáticas"
+"Yésica Herrera Durán",17,"Universidad Internacional de Andalucía","Ciencias Sociales"
+"Olegario Trujillo Suárez",17,"Universidad Francisco de Vitoria","Ciencias Económicas"
+"Ernesto Pintor Elías",16,"ESIC Universidad",Filosofía
+"Isidora Ramis Pareja",16,"Universidad Católica San Antonio","Ciencias de la Salud"
+"Nazaret Colom Pascual",16,"Universidad Católica Santa Teresa de Jesús de Ávila",Arquitectura
+"Cebrián Cepeda Moraleda",17,"Universidad de Oviedo",Arquitectura
+"Luis Milla Cuenca",16,"Universidad de Alicante",Agronomía
+"Perlita Chaves Jimenez",17,"Universidad Intercontinental de la Empresa","Ciencias de la Salud"
+"José María Gilabert-Abella",17,"Universidad de Almería",Humanidades
+"Pilar Carmen Lopez Sáenz",17,"Universidad de Granada",Arquitectura
+"Javiera Ponce Rubio",16,"Universidad CEU San Pablo",Veterinaria
+"Marita Martorell Boada",16,"Universidad Pública de Navarra",Arquitectura
+"Consuelo Guzman",16,"Universidad de Gerona",Derecho
+"Liliana Manso Pombo",16,"Universidad Europea de Canarias","Ciencias Físicas y Matemáticas"
+"Edmundo Ugarte Barrio",16,"Universidad Internacional de Valencia",Arquitectura
+"Edmundo Salazar Lillo",17,"Universidad Católica Santa Teresa de Jesús de Ávila",Química
+"Jaime Peralta Conesa",17,"Universidad Pública de Navarra",Química
+"Joaquina Pombo Cerdá",17,"Universidad de Valladolid",Comunicación
+"Jordi Laguna Pons",17,"Universidad Autónoma de Madrid","Ciencias Económicas"
+"Marco Torrecilla Andres",16,"Universidad de Almería",Comunicación
+"Sofía Soto-Báez",17,"Universidad de Málaga",Comunicación
+"Francisca Franco Teruel",16,"Universidad de La Laguna","Educación Física"
+"Alfredo Mauricio Quesada Julián",17,"Universidad Carlos III de Madrid",Derecho
+"Claudia del Jerez",17,"Universidad Intercontinental de la Empresa",Química
+"Fito Ramirez-Donoso",17,"Universidad de Burgos",Humanidades
+"Ezequiel de Cánovas",16,"Universidad Católica Santa Teresa de Jesús de Ávila",Agronomía
+"Nadia Rincón Macías",17,"Universidad Autónoma de Madrid",Agronomía
+"Rita Castrillo Llabrés",16,"Universidad del País Vasco",Química
+"Eliseo del Vidal",17,"Universidad de Jaén","Ciencias de la Salud"
+"Ramiro Tejedor",16,"Universidad Politécnica de Cataluña",Información
+"Salomón Juliá",16,"Universidad de Lérida","Ciencias Económicas"
+"Tomás Escobar Bayo",17,"Universidad de Santiago de Compostela",Medicina
+"Eufemia Isa Lloret Iriarte",16,"Universidad Internacional Menéndez Pelayo","Ciencias Físicas y Matemáticas"
+"Feliciana Amaya Marquez",17,"Universidad Internacional de Andalucía","Ciencias Sociales"
+"Esperanza Bilbao Cortina",16,"Universidad Europea Miguel de Cervantes",Matemática
+"Leyre Murcia Jaén",16,"Universidad Antonio de Nebrija","Ciencias Económicas"
+"Petrona Ramos Bolaños",17,"Universidad de Salamanca","Ciencias Sociales"
+"Heriberto Uría Gascón",16,"Universidad de Vigo","Ciencias Sociales"
+"Martin Saturnino Santana Nadal",17,"Universidad Jaime I",Arquitectura
+"Ernesto Galiano",16,"Universidad Pompeu Fabra",Odontología
+"Eliseo Capdevila Cortes",16,"Universidad de Oviedo",Información
+"Marta Villalobos Gomila",16,"Universidad Politécnica de Madrid","Ciencias Exactas"
+"María Belén Ana Belén Mayoral Iniesta",16,"Universidad Carlos III de Madrid",Medicina
+"Lorena Sureda Mateo",17,"Universidad de Navarra",Información
+"Salvador Lastra Nuñez",16,"Universidad CEU San Pablo",Medicina
+"Leyre Maza Catalán",17,"Universidad de León","Ciencias Sociales"
+"Maricela Cabezas-Arenas",17,"Universidad de las Islas Baleares",Diseño
+"Purificación Marco Samper",17,"Universidad de Lérida","Ciencias Exactas"
+"Bernardino Plinio Mendez Seco",17,"Universidad CEU San Pablo","Ciencias Sociales"
+"Vasco Berto Jordán Company",16,"Universidad Antonio de Nebrija",Veterinaria
+"David Jimenez Ramón",17,"Universidad San Jorge","Ciencias Físicas y Matemáticas"
+"León Lluch",16,"Universidad Fernando Pessoa-Canarias",Filosofía
+"Lope Amor Sainz",17,"Universidad de Salamanca","Ciencias de la Educación"
+"Atilio Azcona",17,"Universidad de Barcelona","Ciencias Exactas"
+"Vilma Nebot Santana",17,"Universidad de Granada",Agronomía
+"Xiomara Rosselló Saavedra",16,"Universidad Loyola Andalucía",Filosofía
+"Ildefonso de Ferrera",16,"Universidad de Zaragoza",Humanidades
+"Fabricio Díaz Vélez",16,"Universidad Internacional de Cataluña","Ciencias de la Salud"
+"Ruben de Catalán",16,"Universidad Católica Santa Teresa de Jesús de Ávila",Diseño
+"Eugenia Patiño Sanz",17,"Universidad Católica Santa Teresa de Jesús de Ávila",Comunicación
+"Ignacio Criado Montalbán",17,"Universidad Pontificia Comillas",Psicología
+"Perla Nebot Lasa",16,"Universidad Intercontinental de la Empresa",Odontología
+"Ciríaco Sánchez Villaverde",17,"Universidad Jaime I",Psicología
+"Espiridión Rincón",16,"Universidad Pompeu Fabra",Humanidades
+"Isaura de Fiol",17,"Universidad Fernando III",Humanidades
+"Carlito del Ballester",16,"Universidad Politécnica de Valencia",Medicina
+"Amor Arjona Trujillo",16,"Universidad de Castilla-La Mancha","Educación Física"
+"Jose Angel Leon-Valverde",17,"Universidad CEU San Pablo","Ciencias Físicas y Matemáticas"
+"Rafael Cid-Somoza",17,"Universidad de Las Palmas de Gran Canaria","Ciencias Sociales"
+"Carlito Calisto Machado Domingo",16,"Universidad de Santiago de Compostela","Ciencias de la Salud"
+"Régulo Escobar-Ordóñez",16,"Universidad de Salamanca",Filosofía
+"Fernanda Cantero",17,"Universidad de Deusto",Diseño
+"Lalo de Beltran",17,"Universidad de Lérida",Arquitectura
+"Jonatan Vives",16,"Universidad Antonio de Nebrija",Información
+"Gisela Blanch-Vallejo",17,"Universidad Tecnológica Atlántico-Mediterráneo","Ciencias Económicas"
+"Godofredo del Pujadas",16,"Universidad del País Vasco",Matemática
+"Mario de Pujadas",17,"Universidad de Mondragón",Agronomía
+"Joaquina Fernandez Ruano",16,"Universidad Politécnica de Cartagena",Ingeniería
+"Alba Chacón Sanmartín",16,"Universidad de Extremadura",Medicina
+"Marina Herrero-Pintor",16,"Universidad CEU San Pablo",Filosofía
+"Candelas Roldán Peralta",17,"Universidad de León","Educación Física"
+"Charo Calderón-Pascual",17,"Universidad Internacional de Cataluña",Ingeniería
+"Victor Manuel Navarro",16,"Universidad Complutense de Madrid",Filosofía
+"Begoña Balaguer Serna",17,"Universidad CEU San Pablo","Ciencias Exactas"
+"Sofía Llanos Zamora",16,"Universidad de Cantabria","Ciencias de la Educación"
+"Marcelino del Gomis",16,"Universidad de Mondragón",Química
+"Leocadia Fabregat Conde",17,"Universidad Católica Santa Teresa de Jesús de Ávila","Ciencias Económicas"
+"Clotilde Blanch Pedrosa",17,"Universidad Autónoma de Madrid",Arquitectura
+"Laura del Quevedo",17,"Universidad de Córdoba",Ingeniería
+"Teodora del Abella",17,"Universidad Internacional de La Rioja",Química
+"Marianela Mayol Manjón",17,"Universidad Politécnica de Madrid","Ciencias de la Educación"
+"Jose Francisco España",16,"Universidad de Las Palmas de Gran Canaria",Agronomía
+"Febe del Ochoa",16,"Universidad Carlos III de Madrid",Filosofía
+"Timoteo Cueto Agullo",16,"Universidad Fernando III",Ingeniería
+"Carlito Alberola Sabater",17,"Universidad Internacional de La Rioja",Información
+"Antonio de Gras",16,"Universidad Internacional de Andalucía",Psicología
+"Lupe Puig Bru",17,"Universidad de Barcelona","Ciencias de la Educación"
+"Joaquina Bas Figueroa",17,"Universidad Internacional Villanueva",Odontología
+"Jessica Barbero Cobo",16,"Universidad Europea de Canarias",Medicina
+"Rosario Pozo-Merino",16,"Universidad de La Coruña","Ciencias de la Educación"
+"Bautista del Arranz",17,"Universidad Abierta de Cataluña",Matemática
+"Pilar Cabrero Rodriguez",16,"Universidad Abad Oliva CEU",Diseño
+"Zaida del Viana",16,"Universidad de Barcelona",Matemática
+"Eloy Peña Pedraza",17,"Universidad Rey Juan Carlos","Ciencias Físicas y Matemáticas"
+"Ale Oliva Olmedo",16,"Universidad Católica San Antonio","Ciencias de la Salud"
+"Heraclio Porta",16,"Universidad Tecnológica Atlántico-Mediterráneo",Información
+"Francisca Pacífica Pereira Bueno",17,"Universidad de Málaga",Diseño
+"Hilario Carranza Seco",17,"Universidad Católica de Valencia San Vicente Mártir",Comunicación
+"José Antonio Salvador Chamorro Morillo",17,"Universidad Europea de Canarias","Educación Física"
+"Fabricio Mora Esteban",17,"Universidad Antonio de Nebrija",Filosofía
+"Paca Paniagua Bertrán",17,"Universidad de Zaragoza",Medicina
+"Eva del Lobo",16,"Universidad de Castilla-La Mancha","Ciencias Exactas"
+"Ana Hierro Galiano",16,"Universidad Politécnica de Madrid","Ciencias Económicas"
+"Yago Mínguez Montserrat",17,"Universidad Intercontinental de la Empresa",Diseño
+"Flora de Iglesias",16,"Universidad de Mondragón",Medicina
+"Marisa de Rosselló",17,"Universidad de Córdoba",Agronomía
+"Pablo Pont Ramos",16,"Universidad Alfonso X el Sabio","Ciencias de la Educación"
+"Delfina Mancebo-Gallego",17,"Universidad Internacional Villanueva",Veterinaria
+"René Melero Barba",17,"Universidad Abierta de Cataluña",Humanidades
+"Anabel Tenorio Carbó",16,"Universidad de Jaén","Ciencias de la Educación"
+"Omar Castell-Pulido",16,"Universidad Internacional Villanueva",Ingeniería
+"Buenaventura Andreu-Seco",16,"Universidad Católica Santa Teresa de Jesús de Ávila","Ciencias de la Educación"
+"Asunción Azahar Márquez Vila",16,"Universidad Antonio de Nebrija",Psicología
+"Virgilio Seco Bustos",16,"Universidad Complutense de Madrid",Derecho
+"Aroa del Ferreras",17,"Universidad de Huelva",Psicología
+"Arturo Herberto Santamaria Vázquez",16,"Universidad Miguel Hernández de Elche","Ciencias Sociales"
+"Natalia Rodríguez-Salvador",17,"Universidad de Barcelona","Ciencias Físicas y Matemáticas"
+"Modesta Ferrera-Caro",17,"Universidad de Almería","Ciencias Físicas y Matemáticas"
+"Pascual Pedro Cervantes",17,"Universidad Europea de Madrid","Ciencias Económicas"
+"Abel Duque",16,"Universidad Politécnica de Cartagena","Ciencias Físicas y Matemáticas"
+"Emma del Jerez",17,"Universidad Loyola Andalucía",Comunicación

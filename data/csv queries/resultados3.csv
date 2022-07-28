@@ -1,0 +1,51 @@
+idUniversidad,nombre,sede,comunidadAutonoma,fundacion,tipo
+1,"Universidad de Sevilla",Sevilla,Andalucía,1505,Pública
+2,"Universidad de Granada",Granada,Andalucía,1531,Pública
+3,"Universidad de Córdoba",Córdoba,Andalucía,1972,Pública
+4,"Universidad de Málaga",Málaga,Andalucía,1972,Pública
+5,"Universidad de Cádiz",Cádiz,Andalucía,1979,Pública
+6,"Universidad de Almería",Almería,Andalucía,1993,Pública
+7,"Universidad de Huelva",Huelva,Andalucía,1993,Pública
+8,"Universidad de Jaén",Jaén,Andalucía,1993,Pública
+9,"Universidad Internacional de Andalucía",Sevilla,Andalucía,1994,Pública
+10,"Universidad Pablo de Olavide",Sevilla,Andalucía,1997,Pública
+14,"Universidad de Zaragoza",Zaragoza,Aragón,1542,Pública
+16,"Universidad de Oviedo",Oviedo,Asturias,1608,Pública
+17,"Universidad de las Islas Baleares",Palma,"Islas Baleares",1978,Pública
+18,"Universidad de La Laguna","San Cristóbal de La Laguna",Canarias,1927,Pública
+19,"Universidad de Las Palmas de Gran Canaria","Las Palmas de Gran Canaria",Canarias,1989,Pública
+22,"Universidad de Cantabria",Santander,Cantabria,1972,Pública
+24,"Universidad de Castilla-La Mancha","Ciudad Real","Castilla-La Mancha",1985,Pública
+25,"Universidad de Salamanca",Salamanca,"Castilla y León",1218,Pública
+26,"Universidad de Valladolid",Valladolid,"Castilla y León",1241,Pública
+28,"Universidad de León",León,"Castilla y León",1979,Pública
+29,"Universidad de Burgos",Burgos,"Castilla y León",1994,Pública
+34,"Universidad de Barcelona",Barcelona,Cataluña,1450,Pública
+35,"Universidad Autónoma de Barcelona","Sardañola del Vallés",Cataluña,1968,Pública
+36,"Universidad Politécnica de Cataluña",Barcelona,Cataluña,1971,Pública
+37,"Universidad Pompeu Fabra",Barcelona,Cataluña,1990,Pública
+39,"Universidad de Gerona",Gerona,Cataluña,1991,Pública
+40,"Universidad de Lérida",Lérida,Cataluña,1991,Pública
+41,"Universidad Rovira i Virgili",Tarragona,Cataluña,1991,Pública
+46,"Universidad de Valencia",Valencia,"Comunidad Valenciana",1499,Pública
+47,"Universidad Politécnica de Valencia",Valencia,"Comunidad Valenciana",1968,Pública
+48,"Universidad de Alicante","San Vicente del Raspeig","Comunidad Valenciana",1979,Pública
+49,"Universidad Jaime I","Castellón de la Plana","Comunidad Valenciana",1991,Pública
+50,"Universidad Miguel Hernández de Elche",Elche,"Comunidad Valenciana",1996,Pública
+55,"Universidad de Extremadura",Badajoz,Extremadura,1973,Pública
+56,"Universidad de Santiago de Compostela","Santiago de Compostela",Galicia,1495,Pública
+57,"Universidad de La Coruña","La Coruña",Galicia,1989,Pública
+58,"Universidad de Vigo",Vigo,Galicia,1990,Pública
+61,"Universidad de La Rioja",Logroño,"La Rioja",1992,Pública
+63,"Universidad Complutense de Madrid",Madrid,"Comunidad de Madrid",1822,Pública
+65,"Universidad Internacional Menéndez Pelayo",Madrid,"Comunidad de Madrid",1932,Pública
+66,"Universidad Autónoma de Madrid",Madrid,"Comunidad de Madrid",1968,Pública
+67,"Universidad Politécnica de Madrid",Madrid,"Comunidad de Madrid",1971,Pública
+68,"Universidad Nacional de Educación a Distancia",Madrid,"Comunidad de Madrid",1972,Pública
+69,"Universidad de Alcalá","Alcalá de Henares","Comunidad de Madrid",1499,Pública
+70,"Universidad Carlos III de Madrid",Getafe,"Comunidad de Madrid",1989,Pública
+76,"Universidad Rey Juan Carlos",Móstoles,"Comunidad de Madrid",1996,Pública
+84,"Universidad de Murcia",Murcia,"Región de Murcia",1914,Pública
+86,"Universidad Politécnica de Cartagena",Cartagena,"Región de Murcia",1998,Pública
+88,"Universidad Pública de Navarra",Pamplona,Navarra,1987,Pública
+90,"Universidad del País Vasco",Lejona,"País Vasco",1980,Pública

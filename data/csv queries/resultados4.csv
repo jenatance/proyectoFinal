@@ -1,0 +1,43 @@
+idUniversidad,nombre,sede,comunidadAutonoma,fundacion,tipo
+11,"Universidad Loyola Andalucía",Sevilla,Andalucía,2011,Privada
+12,"Universidad Tecnológica Atlántico-Mediterráneo",Málaga,Andalucía,2023,Privada
+13,"Universidad Fernando III",Bormujos,Andalucía,2023,Privada
+15,"Universidad San Jorge","Villanueva de Gállego",Aragón,2005,Privada
+20,"Universidad Europea de Canarias","La Orotava",Canarias,2012,Privada
+21,"Universidad Fernando Pessoa-Canarias","Santa María de Guía",Canarias,2014,Privada
+23,"Universidad Europea del Atlántico",Santander,Cantabria,2013,Privada
+27,"Universidad Pontificia de Salamanca",Salamanca,"Castilla y León",1940,Privada
+30,"Universidad Católica Santa Teresa de Jesús de Ávila",Ávila,"Castilla y León",1996,Privada
+31,"Universidad Europea Miguel de Cervantes",Valladolid,"Castilla y León",2002,Privada
+32,"Universidad IE",Segovia,"Castilla y León",2008,Privada
+33,"Universidad Internacional Isabel I de Castilla",Burgos,"Castilla y León",2011,Privada
+38,"Universidad Ramon Llull",Barcelona,Cataluña,1990,Privada
+42,"Universidad Abierta de Cataluña",Barcelona,Cataluña,1994,Privada
+43,"Universidad Internacional de Cataluña",Barcelona,Cataluña,1997,Privada
+44,"Universidad de Vich",Vich,Cataluña,1997,Privada
+45,"Universidad Abad Oliva CEU",Barcelona,Cataluña,2003,Privada
+51,"Universidad CEU Cardenal Herrera",Moncada,"Comunidad Valenciana",1999,Privada
+52,"Universidad Católica de Valencia San Vicente Mártir",Valencia,"Comunidad Valenciana",2003,Privada
+53,"Universidad Internacional de Valencia",Valencia,"Comunidad Valenciana",2008,Privada
+54,"Universidad Europea de Valencia",Valencia,"Comunidad Valenciana",2012,Privada
+59,"Universidad Intercontinental de la Empresa","Santiago de Compostela",Galicia,2021,Privada
+60,"Universidad Internacional de la Empresa",Madrid,"Comunidad de Madrid",2023,Privada
+62,"Universidad Internacional de La Rioja",Logroño,"La Rioja",2008,Privada
+64,"Universidad Pontificia Comillas",Madrid,"Comunidad de Madrid",1890,Privada
+71,"Universidad Alfonso X el Sabio","Villanueva de la Cañada","Comunidad de Madrid",1993,Privada
+72,"Universidad CEU San Pablo",Madrid,"Comunidad de Madrid",1993,Privada
+73,"Universidad Francisco de Vitoria","Pozuelo de Alarcón/Majadahonda","Comunidad de Madrid",1993,Privada
+74,"Universidad Antonio de Nebrija","Hoyo de Manzanares","Comunidad de Madrid",1995,Privada
+75,"Universidad Europea de Madrid","Villaviciosa de Odón","Comunidad de Madrid",1995,Privada
+77,"Universidad Camilo José Cela","Villanueva de la Cañada","Comunidad de Madrid",1998,Privada
+78,"Universidad a Distancia de Madrid",Madrid,"Comunidad de Madrid",2006,Privada
+79,"Universidad Eclesiástica San Dámaso",Madrid,"Comunidad de Madrid",2011,Privada
+80,"ESIC Universidad","Pozuelo de Alarcón","Comunidad de Madrid",2019,Privada
+81,"Universidad Internacional Villanueva",Madrid,"Comunidad de Madrid",2019,Privada
+82,"CUNEF Universidad",Madrid,"Comunidad de Madrid",2019,Privada
+83,"Universidad de Diseño, Innovación y Tecnología",Madrid,"Comunidad de Madrid",2022,Privada
+85,"Universidad Católica San Antonio","Guadalupe - Murcia","Región de Murcia",1996,Privada
+87,"Universidad de Navarra",Pamplona,Navarra,1952,Privada
+89,"Universidad de Deusto",Bilbao,"País Vasco",1886,Privada
+91,"Universidad de Mondragón",Mondragón,"País Vasco",1997,Privada
+92,"European University Vitoria-Gasteiz",Vitoria,"País Vasco",2023,Privada
